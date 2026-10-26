@@ -8,6 +8,7 @@ import {
 } from "react";
 import {
   Shield,
+  Menu,
   Clock3,
   Upload,
   Plus,
@@ -29,7 +30,12 @@ import {
 } from "lucide-react";
 import { Chart } from "./Chart";
 import { TIME_SOURCE_LABELS } from "./metadata";
-import { initialCatalog, matchesStudent, refreshCatalog } from "./catalog";
+import {
+  initialCatalog,
+  matchesStudent,
+  refreshCatalog,
+  canonicalIconId,
+} from "./catalog";
 import {
   DEFAULT_REGION,
   Scanner,
@@ -59,6 +65,77 @@ import {
 } from "./model";
 
 const NoticeContext = createContext("");
+function HeaderMenu() {
+  const ref = useRef<HTMLDetailsElement>(null);
+  useEffect(() => {
+    const closeOutside = (event: PointerEvent) => {
+      if (
+        event.target instanceof Node &&
+        !ref.current?.contains(event.target) &&
+        ref.current
+      )
+        ref.current.open = false;
+    };
+    const escape = (event: KeyboardEvent) => {
+      if (event.key === "Escape" && ref.current?.open) {
+        ref.current.open = false;
+        ref.current.querySelector("summary")?.focus();
+      }
+    };
+    document.addEventListener("pointerdown", closeOutside);
+    document.addEventListener("keydown", escape);
+    return () => {
+      document.removeEventListener("pointerdown", closeOutside);
+      document.removeEventListener("keydown", escape);
+    };
+  }, []);
+  return (
+    <details className="header-menu" ref={ref}>
+      <summary className="icon-button" aria-label="リンクメニュー">
+        <Menu size={22} />
+      </summary>
+      <nav
+        className="header-menu-links"
+        aria-label="関連リンク"
+        onClick={(event) => {
+          if ((event.target as HTMLElement).closest("a") && ref.current)
+            ref.current.open = false;
+        }}
+      >
+        <a
+          href="https://kur-3dcg.github.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          他ツール
+        </a>
+        <hr />
+        <a
+          href="https://note.com/preview/ncf20f5e02939?prev_access_key=acbc760cac280ecdd6ad40dfb5204c3b"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          マニュアル
+        </a>
+        <hr />
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSf4LPHZ-D-SQveKOjFbzMCvF_r7XEEsooxapUKd8UvDZ2SrBQ/viewform?usp=dialog"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ご意見・ご感想・バグ報告などはこちら
+        </a>
+        <a
+          href="https://x.com/kur_3dcg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          更新・開発情報はこちら
+        </a>
+      </nav>
+    </details>
+  );
+}
 function Modal({
   title,
   onClose,
@@ -275,7 +352,8 @@ export default function App() {
     window.addEventListener("storage", fn);
     return () => window.removeEventListener("storage", fn);
   }, []);
-  const student = (id: string | null) => catalog.items.find((s) => s.id === id);
+  const student = (id: string | null) =>
+    catalog.items.find((s) => s.id === canonicalIconId(id));
   function commit(next: Store) {
     if (loaded.error) {
       setMessage(loaded.error);
@@ -671,6 +749,7 @@ export default function App() {
           >
             <CircleHelp size={20} />
           </button>
+          <HeaderMenu />
         </div>
       </header>
       <main>
@@ -1293,11 +1372,24 @@ export default function App() {
       {pickFor && (
         <IconPicker
           items={catalog.items}
-          value={pickFor === "manual" ? iconId : (editPlayer?.iconId ?? null)}
+          value={canonicalIconId(
+            pickFor === "manual" ? iconId : (editPlayer?.iconId ?? null),
+          )}
           onClose={() => setPickFor(null)}
           onPick={(id) => {
             if (pickFor === "manual") setIconId(id);
-            else if (editPlayer) setEditPlayer({ ...editPlayer, iconId: id });
+            else if (editPlayer) {
+              if (
+                !commit({
+                  ...store,
+                  players: store.players.map((p) =>
+                    p.id === editPlayer.id ? { ...p, iconId: id } : p,
+                  ),
+                })
+              )
+                return;
+              setEditPlayer({ ...editPlayer, iconId: id });
+            }
             setPickFor(null);
           }}
         />

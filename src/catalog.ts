@@ -2,6 +2,41 @@ import bundled from "./data/catalog.json";
 import { normalize, type Student } from "./model";
 export const SHEET = "1E6r9NWBgPiSVLHKktbvS9X58PRamE6gJKgiE7gp4xZQ";
 const KEY = "ba-pvp-hottime.catalog.v1";
+export function canonicalIconId(id: string | null) {
+  return id === "st/hoshino_rinsen_a" || id === "st/hoshino_rinsen_d"
+    ? "st/hoshino_rinsen"
+    : id;
+}
+function prepareItems(items: Student[]): Student[] {
+  const combined = new Map<string, Student>();
+  for (const item of items) {
+    const id = canonicalIconId(item.id)!;
+    const next =
+      id === "st/hoshino_rinsen"
+        ? {
+            ...item,
+            id,
+            name: "ホシノ（臨戦）",
+            image:
+              "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen.png",
+            aliases: [...item.aliases, item.name, "ほしの（りんせん）"],
+          }
+        : item;
+    const existing = combined.get(id);
+    combined.set(
+      id,
+      existing
+        ? {
+            ...next,
+            aliases: [...new Set([...existing.aliases, ...next.aliases])],
+          }
+        : next,
+    );
+  }
+  return [...combined.values()].sort(
+    (a, b) => a.name.localeCompare(b.name, "ja") || a.id.localeCompare(b.id),
+  );
+}
 export function initialCatalog(): { items: Student[]; updatedAt: string } {
   try {
     const raw = JSON.parse(localStorage.getItem(KEY) || "null");
@@ -17,11 +52,11 @@ export function initialCatalog(): { items: Student[]; updatedAt: string } {
           Array.isArray(s.aliases),
       )
     )
-      return raw;
+      return { ...raw, items: prepareItems(raw.items) };
   } catch {
     /* bundled snapshot remains available */
   }
-  return bundled;
+  return { ...bundled, items: prepareItems(bundled.items) };
 }
 export function parseCsv(text: string): string[][] {
   const rows: string[][] = [];
@@ -114,7 +149,10 @@ export async function refreshCatalog() {
   const items = parts.flat();
   if (new Set(items.map((s) => s.id)).size !== items.length)
     throw Error("アイコン一覧に重複した画像があります。更新を中止しました。");
-  const result = { items, updatedAt: new Date().toISOString() };
+  const result = {
+    items: prepareItems(items),
+    updatedAt: new Date().toISOString(),
+  };
   localStorage.setItem(KEY, JSON.stringify(result));
   return result;
 }

@@ -43,6 +43,9 @@ export function Chart({
   const [scope, setScope] = useState("all");
   const [period, setPeriod] = useState("all");
   const [demo, setDemo] = useState(false);
+  useEffect(() => {
+    setDemo(false);
+  }, [records]);
   const plotRef = useRef<HTMLDivElement>(null);
   const [plotWidth, setPlotWidth] = useState(980);
   useEffect(() => {

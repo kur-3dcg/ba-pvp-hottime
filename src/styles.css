@@ -136,6 +136,46 @@ small {
   left: 15px;
   top: 14px;
 }
+.header-menu {
+  position: relative;
+}
+.header-menu > summary {
+  list-style: none;
+  cursor: pointer;
+}
+.header-menu > summary::-webkit-details-marker {
+  display: none;
+}
+.header-menu-links {
+  position: absolute;
+  top: calc(100% + 12px);
+  right: 0;
+  z-index: 100;
+  width: min(340px, calc(100vw - 32px));
+  padding: 8px;
+  background: white;
+  border: 1px solid #dce5ef;
+  border-radius: 12px;
+  box-shadow: 0 12px 32px #20365026;
+}
+.header-menu-links a {
+  display: block;
+  padding: 12px;
+  color: #284661;
+  text-decoration: none;
+  font-size: 14px;
+  border-radius: 6px;
+  overflow-wrap: anywhere;
+}
+.header-menu-links a:hover,
+.header-menu-links a:focus-visible {
+  background: #edf6fc;
+}
+.header-menu-links hr {
+  border: 0;
+  border-top: 1px solid #e5ebf3;
+  margin: 4px 8px;
+}
 .header-actions {
   display: flex;
   align-items: center;
