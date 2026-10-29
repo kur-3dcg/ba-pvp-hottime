@@ -1,2742 +1,3653 @@
 {
-  "updatedAt": "2026-10-04",
   "items": [
+    {
+      "id": "sp/airi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/airi.png",
+      "name": "アイリ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Airi",
+        "아이리",
+        "愛莉",
+        "爱理",
+        "あいり"
+      ]
+    },
     {
       "id": "st/airi_band",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/airi_band.png",
       "name": "アイリ（バンド）",
+      "group": "STRIKER",
       "aliases": [
         "Airi （Band）",
         "아이리（밴드）",
         "愛莉（樂隊）",
         "爱莉（乐队）",
         "あいり（ばんど）"
-      ],
-      "group": "STRIKER"
+      ]
     },
     {
       "id": "st/aoba",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aoba.png",
       "name": "アオバ",
-      "aliases": ["Aoba", "아오바", "青叶", "青葉", "あおば"],
-      "group": "STRIKER"
+      "group": "STRIKER",
+      "aliases": [
+        "Aoba",
+        "아오바",
+        "青叶",
+        "青葉",
+        "あおば"
+      ]
     },
     {
       "id": "st/akane",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/akane.png",
       "name": "アカネ",
-      "aliases": ["Akane", "아카네", "朱音", "茜", "あかね"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/akari",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/akari.png",
-      "name": "アカリ",
-      "aliases": ["Akari", "아카리", "亞伽里", "明里", "あかり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/ako_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ako_dress.png",
-      "name": "アコ（ドレス）",
-      "aliases": [
-        "Ako （Dress）",
-        "아코（드레스）",
-        "亞子（禮服）",
-        "亚子（礼服）",
-        "あこ（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/azusa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/azusa.png",
-      "name": "アズサ",
-      "aliases": ["Azusa", "아즈사", "梓", "梓", "あずさ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/azusa_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/azusa_swimsuit.png",
-      "name": "アズサ（水着）",
-      "aliases": [
-        "Azusa （Swimsuit）",
-        "아즈사（수영복）",
-        "梓（泳裝）",
-        "梓（泳装）",
-        "あずさ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/asuna",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna.png",
-      "name": "アスナ",
-      "aliases": ["Asuna", "아스나", "明日奈", "明日奈", "あすな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/asuna_bunnie",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna_bunnie.png",
-      "name": "アスナ（バニーガール）",
-      "aliases": [
-        "Asuna （Bunny）",
-        "아스나（바니걸）",
-        "明日奈（兔女郎）",
-        "明日奈（邦妮）",
-        "あすな（ばにーがーる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/asuna_uniform",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna_uniform.png",
-      "name": "アスナ（制服）",
-      "aliases": [
-        "Asuna （School Uniform）",
-        "아스나（교복）",
-        "明日奈（制服）",
-        "明日奈（制服）",
-        "あすな（せいふく）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/atuko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/atuko.png",
-      "name": "アツコ",
-      "aliases": ["Atsuko", "아츠코", "敦子", "亚津子", "あつこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/alice",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice.png",
-      "name": "アリス",
-      "aliases": ["Aris", "아리스", "愛麗絲", "爱丽丝", "ありす"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/alice_maid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice_maid.png",
-      "name": "アリス（メイド）",
-      "aliases": [
-        "Aris （Maid）",
-        "아리스（메이드）",
-        "愛麗絲（女僕）",
-        "爱丽丝（女仆）",
-        "ありす（めいど）,めりす"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/alice_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice_rinsen.png",
-      "name": "アリス（臨戦）",
-      "aliases": [
-        "Aris （Battle）",
-        "아리스（전투）",
-        "愛麗絲（臨戰）",
-        "爱丽丝（临战）",
-        "ありす（りんせん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/aru",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru.png",
-      "name": "アル",
-      "aliases": ["Aru", "아루", "亞瑠", "爱露", "ある"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/aru_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru_dress.png",
-      "name": "アル（ドレス）",
-      "aliases": [
-        "Aru （Dress）",
-        "아루（드레스）",
-        "亞瑠（禮服）",
-        "阿露（礼服）",
-        "ある（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/aru_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru_newyear.png",
-      "name": "アル（正月）",
-      "aliases": [
-        "Aru （New Year）",
-        "아루（새해）",
-        "亞瑠（正月）",
-        "爱露（新年）",
-        "ある（しょうがつ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/iori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iori.png",
-      "name": "イオリ",
-      "aliases": ["Iori", "이오리", "伊織", "伊织", "いおり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/iori_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iori_swimsuit.png",
-      "name": "イオリ（水着）",
-      "aliases": [
-        "Iori （Swimsuit）",
-        "이오리（수영복）",
-        "伊織（泳裝）",
-        "伊织（泳装）",
-        "いおり（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/izuna",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izuna.png",
-      "name": "イズナ",
-      "aliases": ["Izuna", "이즈나", "伊樹菜", "泉奈", "いずな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/izuna_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izuna_swimsuit.png",
-      "name": "イズナ（水着）",
-      "aliases": [
-        "Izuna （Swimsuit）",
-        "이즈나（수영복）",
-        "伊樹菜（泳裝）",
-        "泉奈（泳装）",
-        "いずな（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/izumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izumi.png",
-      "name": "イズミ",
-      "aliases": ["Izumi", "이즈미", "泉", "泉", "いずみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/izumi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izumi_swimsuit.png",
-      "name": "イズミ（水着）",
-      "aliases": [
-        "Izumi （Swimsuit）",
-        "이즈미（수영복）",
-        "泉（泳裝）",
-        "泉（泳装）",
-        "いずみ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/ichika",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ichika.png",
-      "name": "イチカ",
-      "aliases": ["Ichika", "이치카", "一花", "一花", "いちか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/ibuki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ibuki.png",
-      "name": "イブキ",
-      "aliases": ["Ibuki", "이부키", "伊吹", "伊吹", "いぶき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/ui",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ui.png",
-      "name": "ウイ",
-      "aliases": ["Ui", "우이", "憂", "忧", "うい"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/ui_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ui_swimsuit.png",
-      "name": "ウイ（水着）",
-      "aliases": [
-        "Ui （Swimsuit）",
-        "우이（수영복）",
-        "憂（泳裝）",
-        "忧（泳装）",
-        "うい（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/utaha_cheerleader",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/utaha_cheerleader.png",
-      "name": "ウタハ（応援団）",
-      "aliases": [
-        "Utaha （Cheer Squad）",
-        "우타하（응원단）",
-        "詠葉（應援團）",
-        "歌原（应援团）",
-        "うたは（おうえんだん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/umika",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/umika.png",
-      "name": "ウミカ",
-      "aliases": ["Umika", "우미카", "海花", "海香", "うみか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/eimi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eimi.png",
-      "name": "エイミ",
-      "aliases": ["Eimi", "에이미", "英美", "艾米", "えいみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/eimi_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eimi_rinsen.png",
-      "name": "エイミ（臨戦）",
-      "aliases": [
-        "Eimi （Battle）",
-        "에이미（전투）",
-        "英美（臨戰）",
-        "艾米（临战）",
-        "えいみ（りんせん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/eri",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eri.png",
-      "name": "エリ",
-      "aliases": ["Eri", "엘리", "繪里", "艾莉", "えり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/otogi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/otogi.png",
-      "name": "オトギ",
-      "aliases": ["Otogi", "오토기", "乙木", "乙木", "おとぎ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kazusa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kazusa.png",
-      "name": "カズサ",
-      "aliases": ["Kazusa", "카즈사", "千紗", "和纱", "かずさ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kazusa_band",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kazusa_band.png",
-      "name": "カズサ（バンド）",
-      "aliases": [
-        "Kazusa （Band）",
-        "카즈사（밴드）",
-        "千紗（樂隊）",
-        "和纱（乐队）",
-        "かずさ（ばんど）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kasumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kasumi.png",
-      "name": "カスミ",
-      "aliases": ["Kasumi", "카스미", "佳澄", "霞", "かすみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kanoe",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kanoe.png",
-      "name": "カノエ",
-      "aliases": ["Kanoe", "카노에", "鹿江", "卡諾", "かのえ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kaho",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kaho.png",
-      "name": "カホ",
-      "aliases": ["Kaho", "카호", "佳穗", "果穗", "かほ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kayoko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko.png",
-      "name": "カヨコ",
-      "aliases": ["Kayoko", "카요코", "佳世子", "佳代子", "かよこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kayoko_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko_dress.png",
-      "name": "カヨコ（ドレス）",
-      "aliases": [
-        "Kayoko （Dress）",
-        "카요코（드레스）",
-        "佳世子（禮服）",
-        "佳代子（礼服）",
-        "かよこ（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kayoko_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko_newyear.png",
-      "name": "カヨコ（正月）",
-      "aliases": [
-        "Kayoko （New Year）",
-        "카요코（새해）",
-        "佳世子（正月）",
-        "佳代子（正月）",
-        "かよこ（しょうがつ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/karin_bunnie",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/karin_bunnie.png",
-      "name": "カリン（バニーガール）",
-      "aliases": [
-        "Karin （Bunny）",
-        "카린（바니걸）",
-        "花凛（兔女郎）",
-        "花凛（邦妮）",
-        "かりん（ばにーがーる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kanna_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kanna_swimsuit.png",
-      "name": "カンナ（水着）",
-      "aliases": [
-        "Kanna （Swimsuit）",
-        "칸나（수영복）",
-        "環奈（泳裝）",
-        "叶渚（泳装）",
-        "かんな（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kikyou",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kikyou.png",
-      "name": "キキョウ",
-      "aliases": ["Kikyou", "키쿄", "桔梗", "桔梗", "ききょう"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kirara",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kirara.png",
-      "name": "キララ",
-      "aliases": ["Kirara", "키라라", "綺羅羅", "绮罗罗", "きらら"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kirino",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kirino.png",
-      "name": "キリノ",
-      "aliases": ["Kirino", "키리노", "桐乃", "桐乃", "きりの"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kurumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kurumi.png",
-      "name": "クルミ",
-      "aliases": ["Walnut", "호두", "胡桃", "核桃", "くるみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kei",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kei.png",
-      "name": "ケイ",
-      "aliases": ["Kei", "케이", "圭", "蓋", "けい"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kokona",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kokona.png",
-      "name": "ココナ",
-      "aliases": ["Kokona", "코코나", "心菜", "心奈", "ここな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kotama_camp",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotama_camp.png",
-      "name": "コタマ（キャンプ）",
-      "aliases": [
-        "Kotama （Camp）",
-        "코타마（캠핑）",
-        "小玉（露營）",
-        "小玉（露营）",
-        "こたま（きゃんぷ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kotori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotori.png",
-      "name": "コトリ",
-      "aliases": ["Kotori", "코토리", "亞都梨", "琴里", "ことり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kotori_cheerleader",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotori_cheerleader.png",
-      "name": "コトリ（応援団）",
-      "aliases": [
-        "Kotori （Cheer Squad）",
-        "코토리（응원단）",
-        "亞都梨（應援團）",
-        "琴里（应援团）",
-        "ことり（おうえんだん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/konoka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/konoka.png",
-      "name": "コノカ",
-      "aliases": ["Konoka", "코노카", "小乃香", "小乃香", "このか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/koharu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koharu.png",
-      "name": "コハル",
-      "aliases": ["Koharu", "코하루", "小春", "小春", "こはる"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/koharu_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koharu_swimsuit.png",
-      "name": "コハル（水着）",
-      "aliases": [
-        "Koharu （Swimsuit）",
-        "코하루（수영복）",
-        "小春（泳裝）",
-        "小春（泳装）",
-        "こはる（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/koyuki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koyuki.png",
-      "name": "コユキ",
-      "aliases": ["Koyuki", "코유키", "小雪", "小雪", "こゆき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/saori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori.png",
-      "name": "サオリ",
-      "aliases": ["Saori", "사오리", "沙織", "纱织", "さおり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/saori_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori_dress.png",
-      "name": "サオリ（ドレス）",
-      "aliases": [
-        "Saori （Dress）",
-        "사오리（드레스）",
-        "沙織（禮服）",
-        "纱织（礼服）",
-        "さおり（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/saori_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori_swimsuit.png",
-      "name": "サオリ（水着）",
-      "aliases": [
-        "Saori （Swimsuit）",
-        "사오리（수영복）",
-        "沙織（泳裝）",
-        "纱织（泳装）",
-        "さおり（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/saki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saki_swimsuit.png",
-      "name": "サキ（水着）",
-      "aliases": [
-        "Saki （Swimsuit）",
-        "사키（수영복）",
-        "咲希（泳裝）",
-        "咲（泳装）",
-        "さき（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/sakurako",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sakurako.png",
-      "name": "サクラコ",
-      "aliases": ["Sakurako", "사쿠라코", "櫻子", "樱子", "さくらこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/sakurako_idol",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sakurako_idol.png",
-      "name": "サクラコ（アイドル）",
-      "aliases": [
-        "Sakurako （Idol）",
-        "사쿠라코（아이돌）",
-        "櫻子（偶像）",
-        "樱子（偶像）",
-        "さくらこ（あいどる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/sigure",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sigure.png",
-      "name": "シグレ",
-      "aliases": ["Shigure", "시구레", "時雨", "时雨", "しぐれ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/jyuri_part",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyuri_part.png",
-      "name": "ジュリ（アルバイト）",
-      "aliases": [
-        "Juri （Part-Time）",
-        "주리（아르바이트）",
-        "茱莉（打工）",
-        "朱莉（打工）",
-        "じゅり（あるばいと）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/syun",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syun.png",
-      "name": "シュン",
-      "aliases": ["Shun", "슌", "旬", "瞬", "しゅん"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/syun_infant",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syun_infant.png",
-      "name": "シュン（幼女）",
-      "aliases": [
-        "Shun （Small）",
-        "슌（어린이）",
-        "旬（幼女）",
-        "瞬（小）",
-        "しゅん（幼女）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/jyunko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyunko.png",
-      "name": "ジュンコ",
-      "aliases": ["Junko", "준코", "淳子", "纯子", "じゅんこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/jyunko_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyunko_newyear.png",
-      "name": "ジュンコ（正月）",
-      "aliases": [
-        "Junko （New Year）",
-        "준코（새해）",
-        "淳子（正月）",
-        "纯子（正月）",
-        "じゅんこ（しょうがつ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/siroko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko.png",
-      "name": "シロコ",
-      "aliases": ["Shiroko", "시로코", "白子", "白子", "しろこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/siroko_bicycle",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko_bicycle.png",
-      "name": "シロコ（ライディング）",
-      "aliases": [
-        "Shiroko （Cycling）",
-        "시로코（라이딩）",
-        "白子（單車）",
-        "白子（骑行）",
-        "しろこ（らいでぃんぐ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/siroko_terror",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko_terror.png",
-      "name": "シロコ＊テラー",
-      "aliases": [
-        "Shiroko Terror",
-        "시로코*테러",
-        "白子＊恐怖",
-        "白子＊恐怖",
-        "しろこ＊てらー,くろこ,しろこてらー"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/suzumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/suzumi.png",
-      "name": "スズミ",
-      "aliases": ["Suzumi", "스즈미", "鈴美", "铃美", "すずみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/suzumi_magic",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/suzumi_magic.png",
-      "name": "スズミ（マジカル）",
-      "aliases": [
-        "Suzumi （Magical）",
-        "스즈미（매지컬）",
-        "鈴美（魔法）",
-        "铃美（魔法）",
-        "すずみ（まじかる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/subaru",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/subaru.png",
-      "name": "スバル",
-      "aliases": ["Subaru", "스바루", "斯巴鲁", "速霸陸", "すばる"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/sumire",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sumire.png",
-      "name": "スミレ",
-      "aliases": ["Sumire", "스미레", "堇", "堇", "すみれ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/seia",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/seia.png",
-      "name": "セイア",
-      "aliases": ["Seiya", "세이아", "圣哉", "聖哉", "せいあ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/seia_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/seia_swimsuit.png",
-      "name": "セイア（水着）",
-      "aliases": [
-        "Seia （swimsuit）",
-        "세이아（수영복）",
-        "Seia（泳装）",
-        "Seia（泳裝）",
-        "せいあ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/sena_private",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sena_private.png",
-      "name": "セナ（私服）",
-      "aliases": [
-        "Sena （Casual）",
-        "세나（사복）",
-        "瀬奈（便服）",
-        "濑名（便服）",
-        "せな（しふく）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/serika",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/serika.png",
-      "name": "セリカ",
-      "aliases": ["Serika", "세리카", "茜香", "芹香", "せりか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/serina_christmas",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/serina_christmas.png",
-      "name": "セリナ（クリスマス）",
-      "aliases": [
-        "Serina （Christmas）",
-        "세리나（크리스마스）",
-        "芹奈（聖誕節）",
-        "芹娜（圣诞节）",
-        "せりな（くりすます）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/takane",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/takane.png",
-      "name": "タカネ",
-      "aliases": ["Takane", "타카네", "高根", "高根", "たかね"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tiaki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tiaki.png",
-      "name": "チアキ",
-      "aliases": ["Chiaki", "치아키", "千秋", "千秋", "ちあき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/cherino",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/cherino.png",
-      "name": "チェリノ",
-      "aliases": ["Cherino", "체리노", "潔莉諾", "切里诺", "ちぇりの"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tise",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tise.png",
-      "name": "チセ",
-      "aliases": ["Chise", "치세", "知世", "千世", "ちせ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tise_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tise_swimsuit.png",
-      "name": "チセ（水着）",
-      "aliases": [
-        "Chise （Swimsuit）",
-        "치세（수영복）",
-        "知世（泳裝）",
-        "千世（泳装）",
-        "ちせ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tinatsu_spa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tinatsu_spa.png",
-      "name": "チナツ（温泉）",
-      "aliases": [
-        "Chinatsu （Hot Spring）",
-        "치나츠（온천）",
-        "千夏（溫泉）",
-        "千夏（温泉）",
-        "ちなつ（おんせん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tukuyo",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tukuyo.png",
-      "name": "ツクヨ",
-      "aliases": ["Tsukuyo", "츠쿠요", "月夜", "月咏", "つくよ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tukuyo_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tukuyo_dress.png",
-      "name": "ツクヨ（ドレス）",
-      "aliases": [
-        "Tsukuyo （Dress）",
-        "츠쿠요（드레스）",
-        "月夜（禮服）",
-        "月咏（礼服）",
-        "つくよ（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tubaki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tubaki.png",
-      "name": "ツバキ",
-      "aliases": ["Tsubaki", "츠바키", "椿", "椿", "つばき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/turugi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/turugi.png",
-      "name": "ツルギ",
-      "aliases": ["Tsurugi", "츠루기", "弦生", "鹤城", "つるぎ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/turugi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/turugi_swimsuit.png",
-      "name": "ツルギ（水着）",
-      "aliases": [
-        "Tsurugi （Swimsuit）",
-        "츠루기（수영복）",
-        "弦生（泳裝）",
-        "鹤城（泳装）",
-        "つるぎ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/toki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki.png",
-      "name": "トキ",
-      "aliases": ["Toki", "토키", "季", "时", "とき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/toki_bunnie",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki_bunnie.png",
-      "name": "トキ（バニーガール）",
-      "aliases": [
-        "Toki （Bunny）",
-        "토키（바니걸）",
-        "季（兔女郎）",
-        "时（兔女郎）",
-        "とき（ばにーがーる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/toki_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki_rinsen.png",
-      "name": "トキ（臨戦）",
-      "aliases": [
-        "Toki （Battle）",
-        "토키（전투）",
-        "季（臨戰）",
-        "时（临战）",
-        "とき（りんせん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/tomoe",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tomoe.png",
-      "name": "トモエ",
-      "aliases": ["Tomoe", "토모에", "智惠", "巴", "ともえ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/nagusa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nagusa.png",
-      "name": "ナグサ",
-      "aliases": ["Nagusa", "나구사", "名草", "南草", "なぐさ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/nagusa_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nagusa_swimsuit.png",
-      "name": "ナグサ（水着）",
-      "aliases": [
-        "Nagusa（Swimsuit）",
-        "나구사（수영복）",
-        "名草（泳裝）",
-        "南草（泳装）",
-        "なぐさ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/natsu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/natsu.png",
-      "name": "ナツ",
-      "aliases": ["Natsu", "나츠", "夏", "夏", "なつ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/natsu_band",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/natsu_band.png",
-      "name": "ナツ（バンド）",
-      "aliases": [
-        "Natsu （Band）",
-        "나츠（밴드）",
-        "夏（樂隊）",
-        "夏（乐队）",
-        "なつ（ばんど）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/niko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/niko.png",
-      "name": "ニコ",
-      "aliases": ["Nico", "니코", "尼科", "尼可", "にこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/neru",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru.png",
-      "name": "ネル",
-      "aliases": ["Neru", "네루", "寧瑠", "妮露", "ねる"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/neru_bunnie",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru_bunnie.png",
-      "name": "ネル（バニーガール）",
-      "aliases": [
-        "Neru （Bunny）",
-        "네루（바니걸）",
-        "寧瑠（兔女郎）",
-        "妮露（邦妮）",
-        "ねる（ばにーがーる）,ばねる"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/neru_uniform",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru_uniform.png",
-      "name": "ネル（制服）",
-      "aliases": [
-        "Neru （School Uniform）",
-        "네루（교복）",
-        "寧瑠（制服）",
-        "妮露（制服）",
-        "ねる（せいふく）,せねる"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/noa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/noa.png",
-      "name": "ノア",
-      "aliases": ["Noa", "노아", "乃愛", "诺亚", "のあ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/noa_pajama",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/noa_pajama.png",
-      "name": "ノア（パジャマ）",
-      "aliases": [
-        "Noa （Pajama）",
-        "노아（파자마）",
-        "乃愛（睡衣）",
-        "诺亚（睡衣）",
-        "のあ（ぱじゃま）,ぱのあ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/nozomi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nozomi.png",
-      "name": "ノゾミ",
-      "aliases": ["Nozomi", "노조미", "希望", "希", "のぞみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/nonomi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nonomi.png",
-      "name": "ノノミ",
-      "aliases": ["Nonomi", "노노미", "野乃美", "野宫", "ののみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/nonomi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nonomi_swimsuit.png",
-      "name": "ノノミ（水着）",
-      "aliases": [
-        "Nonomi （Swimsuit）",
-        "노노미（수영복）",
-        "野乃美（泳裝）",
-        "野宫（泳装）",
-        "ののみ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hasumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi.png",
-      "name": "ハスミ",
-      "aliases": ["Hasumi", "하스미", "蓮實", "莲见", "はすみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hasumi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi_swimsuit.png",
-      "name": "ハスミ（水着）",
-      "aliases": [
-        "Hasumi （Swimsuit）",
-        "하스미（수영복）",
-        "蓮實（泳裝）",
-        "莲见（泳装）",
-        "はすみ（みずぎ）,みずはすみ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hasumi_gym",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi_gym.png",
-      "name": "ハスミ（体操服）",
-      "aliases": [
-        "Hasumi （Track）",
-        "하스미（체육복）",
-        "蓮實（體育服）",
-        "莲见（体操服）",
-        "はすみ（たいそうふく）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hanako_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hanako_swimsuit.png",
-      "name": "ハナコ（水着）",
-      "aliases": [
-        "Hanako （Swimsuit）",
-        "하나코（수영복）",
-        "花子（泳裝）",
-        "花子（泳装）",
-        "はなこ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/haruka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruka.png",
-      "name": "ハルカ",
-      "aliases": ["Haruka", "하루카", "遙香", "春香", "はるか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/haruka_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruka_dress.png",
-      "name": "ハルカ（ドレス）",
-      "aliases": [
-        "Haruka （Dress）",
-        "하루카（드레스）",
-        "遙香（禮服）",
-        "春香（礼服）",
-        "はるか（どれす）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/haruna",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruna.png",
-      "name": "ハルナ",
-      "aliases": ["Haruna", "하루나", "羽留奈", "晴奈", "はるな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/haruna_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruna_newyear.png",
-      "name": "ハルナ（正月）",
-      "aliases": [
-        "Haruna （New Year）",
-        "하루나（새해）",
-        "羽留奈（正月）",
-        "晴奈（正月）",
-        "はるな（しょうがつ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hare_camp",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hare_camp.png",
-      "name": "ハレ（キャンプ）",
-      "aliases": [
-        "Hare （Camp）",
-        "하레（캠핑）",
-        "晴（露營）",
-        "晴（露营）",
-        "はれ（きゃんぷ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hikari",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hikari.png",
-      "name": "ヒカリ",
-      "aliases": ["Hikari", "히카리", "光", "光", "ひかり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hina",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina.png",
-      "name": "ヒナ",
-      "aliases": ["Hina", "히나", "陽奈", "日奈", "ひな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hina_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina_dress.png",
-      "name": "ヒナ（ドレス）",
-      "aliases": [
-        "Hina （Dress）",
-        "히나（드레스）",
-        "陽奈（禮服）",
-        "日奈（礼服）",
-        "ひな（どれす）,どひな"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hina_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina_swimsuit.png",
-      "name": "ヒナ（水着）",
-      "aliases": [
-        "Hina （Swimsuit）",
-        "히나（수영복）",
-        "陽奈（泳裝）",
-        "日奈（泳装）",
-        "ひな（みずぎ）,みずひな"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hinata",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hinata.png",
-      "name": "ヒナタ",
-      "aliases": ["Hinata", "히나타", "日向", "日向", "ひなた"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hibiki_cheerleader",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hibiki_cheerleader.png",
-      "name": "ヒビキ（応援団）",
-      "aliases": [
-        "Hibiki （Cheer Squad）",
-        "히비키（응원단）",
-        "響（應援團）",
-        "响（应援团）",
-        "ひびき（おうえんだん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hifumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hifumi.png",
-      "name": "ヒフミ",
-      "aliases": ["Hifumi", "히후미", "日步美", "日富美", "ひふみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hiyori_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hiyori_swimsuit.png",
-      "name": "ヒヨリ（水着）",
-      "aliases": [
-        "Hiyori （Swimsuit）",
-        "히요리（수영복）",
-        "日和（泳裝）",
-        "日和（泳装）",
-        "ひより（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/fi-na",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fi-na.png",
-      "name": "フィーナ",
-      "aliases": ["Pina", "피나", "菲娜", "菲娜", "ふぃーな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/fubuki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fubuki.png",
-      "name": "フブキ",
-      "aliases": ["Fubuki", "후부키", "吹雪", "吹雪", "ふぶき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/fuyu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fuyu.png",
-      "name": "フユ",
-      "aliases": ["Winter", "후유", "冬天", "冬天", "ふゆ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hoshino",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino.png",
-      "name": "ホシノ",
-      "aliases": ["Hoshino", "호시노", "星野", "星野", "ほしの"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hoshino_rinsen_a",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen_a.png",
-      "name": "ホシノ（攻撃）",
-      "aliases": [
-        "Hoshino （attack）",
-        "호시노（공격）",
-        "星野（臨戰/攻）",
-        "星野（攻擊）",
-        "ほしの（こうげき）,りんおじ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hoshino_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_swimsuit.png",
-      "name": "ホシノ（水着）",
-      "aliases": [
-        "Hoshino （Swimsuit）",
-        "호시노（수영복）",
-        "星野（泳裝）",
-        "星野（泳装）",
-        "ほしの（みずぎ）,みずおじ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/hoshino_rinsen_d",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen_d.png",
-      "name": "ホシノ（防御）",
-      "aliases": [
-        "Hoshino （Defense）",
-        "호시노（방어）",
-        "星野（臨戰/盾）",
-        "星野（防守）",
-        "ほしの（ぼうぎょ）,りんおじ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/maki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/maki.png",
-      "name": "マキ",
-      "aliases": ["Maki", "마키", "真紀", "真纪", "まき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mari-_idol",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_idol.png",
-      "name": "マリー（アイドル）",
-      "aliases": [
-        "Mari （Idol）",
-        "마리（아이돌）",
-        "瑪麗（偶像）",
-        "玛丽（偶像）",
-        "まりー（あいどる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mari-_gym",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_gym.png",
-      "name": "マリー（体操服）",
-      "aliases": [
-        "Mari （Track）",
-        "마리（체육복）",
-        "瑪麗（體操）",
-        "玛丽（体操服）",
-        "まりー（たいそうふく）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/marina",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/marina.png",
-      "name": "マリナ",
-      "aliases": ["Marina", "마리나", "瑪麗娜", "真里奈", "まりな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/marina_cheepaw",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/marina_cheepaw.png",
-      "name": "マリナ（チーパオ）",
-      "aliases": [
-        "Marina （Cheongsam）",
-        "마리나（치파오）",
-        "瑪麗娜（旗袍）",
-        "真里奈（旗袍）",
-        "まりな（ちーぱお）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mika",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mika.png",
-      "name": "ミカ",
-      "aliases": ["Mika", "미카", "彌香", "未花", "みか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mika_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mika_swimsuit.png",
-      "name": "ミカ（水着）",
-      "aliases": [
-        "Mika （Swimsuit）",
-        "미카（수영복）",
-        "彌香（泳裝）",
-        "未花（泳装）",
-        "みか（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/misaki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/misaki.png",
-      "name": "ミサキ",
-      "aliases": ["Misaki", "미사키", "美咲", "美咲", "みさき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/michiru",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/michiru.png",
-      "name": "ミチル",
-      "aliases": ["Michiru", "미치루", "三千留", "满", "みちる"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/midori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/midori.png",
-      "name": "ミドリ",
-      "aliases": ["Midori", "미도리", "綠", "绿", "みどり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/midori_maid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/midori_maid.png",
-      "name": "ミドリ（メイド）",
-      "aliases": [
-        "Midori （Maid）",
-        "미도리（메이드）",
-        "綠（女僕）",
-        "绿（女仆）",
-        "みどり（めいど）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mina",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mina.png",
-      "name": "ミナ",
-      "aliases": ["Mina", "미나", "美奈", "弥奈", "みな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mine",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mine.png",
-      "name": "ミネ",
-      "aliases": ["Mine", "미네", "美禰", "峰", "みね"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mine_idol",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mine_idol.png",
-      "name": "ミネ（アイドル）",
-      "aliases": [
-        "Mine （Idol）",
-        "미네（아이돌）",
-        "美禰（偶像）",
-        "峰（偶像）",
-        "みね（あいどる）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mimori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mimori.png",
-      "name": "ミモリ",
-      "aliases": ["Mimori", "미모리", "三森", "三森", "みもり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/miyako",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyako.png",
-      "name": "ミヤコ",
-      "aliases": ["Miyako", "미야코", "都子", "宫子", "みやこ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/miyako_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyako_swimsuit.png",
-      "name": "ミヤコ（水着）",
-      "aliases": [
-        "Miyako （Swimsuit）",
-        "미야코（수영복）",
-        "都子（泳裝）",
-        "宫子（泳装）",
-        "みやこ（みずぎ）,みずみやこ"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/miyu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyu.png",
-      "name": "ミユ",
-      "aliases": ["Miyu", "미유", "美優", "美游", "みゆ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/miyo",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyo.png",
-      "name": "ミヨ",
-      "aliases": ["Miyo", "미요", "美代", "美代", "みよ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mutsuki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mutsuki.png",
-      "name": "ムツキ",
-      "aliases": ["Mutsuki", "무츠키", "無月", "睦月", "むつき"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/mutsuki_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mutsuki_newyear.png",
-      "name": "ムツキ（正月）",
-      "aliases": [
-        "Mutsuki （New Year）",
-        "무츠키（새해）",
-        "無月（正月）",
-        "睦月（新年）",
-        "むつき（しょうがつ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/megu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/megu.png",
-      "name": "メグ",
-      "aliases": ["Megu", "메구", "惠", "惠久", "めぐ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/meru",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/meru.png",
-      "name": "メル",
-      "aliases": ["Meru", "메루", "愛瑠", "芽留", "める"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/moe_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/moe_swimsuit.png",
-      "name": "モエ（水着）",
-      "aliases": [
-        "Moe （Swimsuit）",
-        "모에（수영복）",
-        "萌（泳裝）",
-        "萌绘（泳装）",
-        "もえ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/momiji",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momiji.png",
-      "name": "モミジ",
-      "aliases": ["Momiji", "모미지", "紅葉", "红叶", "もみじ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/momoi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momoi.png",
-      "name": "モモイ",
-      "aliases": ["Momoi", "모모이", "桃", "桃", "ももい"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/momoi_maid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momoi_maid.png",
-      "name": "モモイ（メイド）",
-      "aliases": [
-        "Momoi （Maid）",
-        "모모이（메이드）",
-        "桃井（女僕）",
-        "桃井（女仆）",
-        "ももい（めいど）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yuuka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka.png",
-      "name": "ユウカ",
-      "aliases": ["Yuuka", "유우카", "優香", "优香", "ゆうか"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yuuka_pajama",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka_pajama.png",
-      "name": "ユウカ（パジャマ）",
-      "aliases": [
-        "Yuuka （Pajama）",
-        "유우카（파자마）",
-        "優香（睡衣）",
-        "优香（睡衣）",
-        "ゆうか（ぱじゃま）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yuuka_gym",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka_gym.png",
-      "name": "ユウカ（体操服）",
-      "aliases": [
-        "Yuuka （Track）",
-        "유우카（체육복）",
-        "優香（體育服）",
-        "优香（体操服）",
-        "ゆうか（たいそうふく）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yukari",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yukari.png",
-      "name": "ユカリ",
-      "aliases": ["Yukari", "유카리", "紫", "紫草", "ゆかり"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yukari_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yukari_swimsuit.png",
-      "name": "ユカリ（水着）",
-      "aliases": [
-        "Yukari （Swimsuit）",
-        "유카리（수영복）",
-        "紫（泳裝）",
-        "紫草（泳装）",
-        "ゆかり（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yuzu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuzu.png",
-      "name": "ユズ",
-      "aliases": ["Yuzu", "유즈", "柚子", "柚子", "ゆず"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/yoshimi_band",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yoshimi_band.png",
-      "name": "ヨシミ（バンド）",
-      "aliases": [
-        "Yoshimi （Band）",
-        "요시미（밴드）",
-        "喜美（樂隊）",
-        "好美（乐队）",
-        "よしみ（ばんど）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/rabu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rabu.png",
-      "name": "ラブ",
-      "aliases": ["Love", "사랑", "爱", "愛", "らぶ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/rio_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rio_rinsen.png",
-      "name": "リオ（臨戦）",
-      "aliases": [
-        "Rio （ready for battle）",
-        "리오（임전）",
-        "莉央（臨戰）",
-        "裡約（準備戰鬥）",
-        "りお（りんせん）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/rumi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rumi.png",
-      "name": "ルミ",
-      "aliases": ["Rumi", "루미", "瑠美", "流美", "るみ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/rei",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rei.png",
-      "name": "レイ",
-      "aliases": ["Ray", "레이", "射线", "射線", "れい"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/reisa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/reisa.png",
-      "name": "レイサ",
-      "aliases": ["Reisa", "레이사", "澪紗", "玲纱", "れいさ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/reijyo",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/reijyo.png",
-      "name": "レイジョ",
-      "aliases": ["Reijo", "레이조", "礼城", "禮城", "れいじょ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/rena",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rena.png",
-      "name": "レナ",
-      "aliases": ["Lena", "레나", "莉娜", "莉娜", "れな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/renge",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/renge.png",
-      "name": "レンゲ",
-      "aliases": ["Renge", "렌게", "蓮華", "莲华", "れんげ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/renge_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/renge_swimsuit.png",
-      "name": "レンゲ（水着）",
-      "aliases": [
-        "Renge （Swimsuit）",
-        "렌게（수영복）",
-        "蓮華（泳裝）",
-        "莲华（泳装）",
-        "れんげ（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/wakamo",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/wakamo.png",
-      "name": "ワカモ",
-      "aliases": ["Wakamo", "와카모", "若藻", "若藻", "わかも"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/wakamo_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/wakamo_swimsuit.png",
-      "name": "ワカモ（水着）",
-      "aliases": [
-        "Wakamo （Swimsuit）",
-        "와카모（수영복）",
-        "若藻（泳裝）",
-        "若藻（泳装）",
-        "わかも（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/misaka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/misaka.png",
-      "name": "御坂美琴",
-      "aliases": [
-        "Misaka Mikoto",
-        "미사카 미코토",
-        "御坂美琴",
-        "御坂美琴",
-        "みさかみこと"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/syokuhou",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syokuhou.png",
-      "name": "食蜂操祈",
-      "aliases": [
-        "Shokuhou Misaki",
-        "쇼쿠호 미사키",
-        "食蜂操祈",
-        "食蜂操祈",
-        "しょくほうみさき"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kisaki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kisaki_swimsuit.png",
-      "name": "キサキ（水着）",
-      "aliases": [
-        "Kisaki （Swimsuit）",
-        "키사키（수영복）",
-        "妃姬（泳裝）",
-        "木崎（泳装）",
-        "きさき（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/shun_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/shun_swimsuit.png",
-      "name": "シュン（水着）",
-      "aliases": [
-        "Shun（Swimsuit）",
-        "슌（수영복）",
-        "旬（泳裝）",
-        "瞬（泳装）",
-        "しゅん（みずぎ）,しゅん"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/shueirin_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/shueirin_swimsuit.png",
-      "name": "シュエリン（水着）",
-      "aliases": [
-        "Shueirin（Swimsuit）",
-        "슈에린（수영복）",
-        "雪林（泳裝）",
-        "雪林（泳装）",
-        "しゅえりん（みずぎ）,しゅん"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/iroha_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iroha_swimsuit.png",
-      "name": "イロハ（水着）",
-      "aliases": [
-        "Iroha（Swimsuit）",
-        "이로하（수영복）",
-        "伊呂波（泳裝）",
-        "伊吕波（泳装）",
-        "いろは（みずぎ）,みずいろは"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/makoto_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/makoto_swimsuit.png",
-      "name": "マコト（水着）",
-      "aliases": [
-        "Makoto（Swimsuit）",
-        "마코토（수영복）",
-        "真琴（泳裝）",
-        "真琴（泳装）",
-        "まこと（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/satsuki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/satsuki_swimsuit.png",
-      "name": "サツキ（水着）",
-      "aliases": [
-        "Satsuki（Swimsuit）",
-        "사츠키（수영복）",
-        "皋月（泳裝）",
-        "小月（泳装）",
-        "さつき（みずぎ）"
-      ],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/cocoro",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/cocoro.png",
-      "name": "ココロ",
-      "aliases": ["Cocoro", "코코로", "心", "心", "こころ"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/kotone",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotone.png",
-      "name": "コトネ",
-      "aliases": ["Kotone", "코토네", "琴音", "琴音", "ことね"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "st/anna",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/anna.png",
-      "name": "アンナ",
-      "aliases": ["Anna", "안나", "安娜", "安娜", "あんな"],
-      "group": "STRIKER"
-    },
-    {
-      "id": "sp/airi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/airi.png",
-      "name": "アイリ",
-      "aliases": ["Airi", "아이리", "愛莉", "爱理", "あいり"],
-      "group": "SPECIAL"
+      "group": "STRIKER",
+      "aliases": [
+        "Akane",
+        "아카네",
+        "朱音",
+        "茜",
+        "あかね"
+      ]
     },
     {
       "id": "sp/akane_bunnie",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/akane_bunnie.png",
       "name": "アカネ（バニーガール）",
+      "group": "SPECIAL",
       "aliases": [
         "Akane （Bunny）",
         "아카네（바니걸）",
         "朱音（兔女郎）",
         "茜（兔女郎）",
         "あかね（ばにーがーる）"
-      ],
-      "group": "SPECIAL"
+      ]
     },
     {
       "id": "sp/akane_uniform",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/akane_uniform.png",
       "name": "アカネ（制服）",
+      "group": "SPECIAL",
       "aliases": [
         "Akane （School Uniform）",
         "아카네（교복）",
         "朱音（制服）",
         "茜（制服）",
         "あかね（せいふく）"
-      ],
-      "group": "SPECIAL"
+      ]
+    },
+    {
+      "id": "st/akari",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/akari.png",
+      "name": "アカリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Akari",
+        "아카리",
+        "亞伽里",
+        "明里",
+        "あかり"
+      ]
     },
     {
       "id": "sp/akari_newyear",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/akari_newyear.png",
       "name": "アカリ（正月）",
+      "group": "SPECIAL",
       "aliases": [
         "Akari （New Year）",
         "아카리（새해）",
         "亞伽里（正月）",
         "明里（正月）",
         "あかり（しょうがつ）"
-      ],
-      "group": "SPECIAL"
+      ]
     },
     {
       "id": "sp/ako",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ako.png",
       "name": "アコ",
-      "aliases": ["Ako", "아코", "亞子", "亚子", "あこ"],
-      "group": "SPECIAL"
+      "group": "SPECIAL",
+      "aliases": [
+        "Ako",
+        "아코",
+        "亞子",
+        "亚子",
+        "あこ"
+      ]
+    },
+    {
+      "id": "st/ako_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ako_dress.png",
+      "name": "アコ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Ako （Dress）",
+        "아코（드레스）",
+        "亞子（禮服）",
+        "亚子（礼服）",
+        "あこ（どれす）"
+      ]
+    },
+    {
+      "id": "st/azusa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/azusa.png",
+      "name": "アズサ",
+      "group": "STRIKER",
+      "aliases": [
+        "Azusa",
+        "아즈사",
+        "梓",
+        "梓",
+        "あずさ"
+      ]
+    },
+    {
+      "id": "sp/azusa_racing",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/azusa_racing.png",
+      "name": "アズサ（レーシング）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Azusa（Racing）",
+        "아즈사 (레이싱)",
+        "梓（賽車）",
+        "梓（赛车）",
+        "あずさ（れーしんぐ）"
+      ]
+    },
+    {
+      "id": "st/azusa_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/azusa_swimsuit.png",
+      "name": "アズサ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Azusa （Swimsuit）",
+        "아즈사（수영복）",
+        "梓（泳裝）",
+        "梓（泳装）",
+        "あずさ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/asuna",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna.png",
+      "name": "アスナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Asuna",
+        "아스나",
+        "明日奈",
+        "明日奈",
+        "あすな"
+      ]
+    },
+    {
+      "id": "st/asuna_bunnie",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna_bunnie.png",
+      "name": "アスナ（バニーガール）",
+      "group": "STRIKER",
+      "aliases": [
+        "Asuna （Bunny）",
+        "아스나（바니걸）",
+        "明日奈（兔女郎）",
+        "明日奈（邦妮）",
+        "あすな（ばにーがーる）"
+      ]
+    },
+    {
+      "id": "st/asuna_uniform",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/asuna_uniform.png",
+      "name": "アスナ（制服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Asuna （School Uniform）",
+        "아스나（교복）",
+        "明日奈（制服）",
+        "明日奈（制服）",
+        "あすな（せいふく）"
+      ]
+    },
+    {
+      "id": "st/atuko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/atuko.png",
+      "name": "アツコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Atsuko",
+        "아츠코",
+        "敦子",
+        "亚津子",
+        "あつこ"
+      ]
     },
     {
       "id": "sp/atsuko_swimsuit",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/atsuko_swimsuit.png",
       "name": "アツコ（水着）",
+      "group": "SPECIAL",
       "aliases": [
         "Atsuko （Swimsuit）",
         "아츠코（수영복）",
         "敦子（泳裝）",
         "亚津子（泳装）",
         "あつこ（みずぎ）"
-      ],
-      "group": "SPECIAL"
+      ]
     },
     {
       "id": "sp/ayane",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ayane.png",
       "name": "アヤネ",
-      "aliases": ["Ayane", "아야네", "綾音", "绫音", "あやね"],
-      "group": "SPECIAL"
+      "group": "SPECIAL",
+      "aliases": [
+        "Ayane",
+        "아야네",
+        "綾音",
+        "绫音",
+        "あやね"
+      ]
     },
     {
       "id": "sp/ayane_swimsuit",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ayane_swimsuit.png",
       "name": "アヤネ（水着）",
+      "group": "SPECIAL",
       "aliases": [
         "Ayane （Swimsuit）",
         "아야네（수영복）",
         "綾音（泳裝）",
         "绫音（泳装）",
         "あやね（みずぎ）"
-      ],
-      "group": "SPECIAL"
+      ]
+    },
+    {
+      "id": "st/alice",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice.png",
+      "name": "アリス",
+      "group": "STRIKER",
+      "aliases": [
+        "Aris",
+        "아리스",
+        "愛麗絲",
+        "爱丽丝",
+        "ありす"
+      ]
+    },
+    {
+      "id": "st/alice_maid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice_maid.png",
+      "name": "アリス（メイド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Aris （Maid）",
+        "아리스（메이드）",
+        "愛麗絲（女僕）",
+        "爱丽丝（女仆）",
+        "ありす（めいど）,めりす"
+      ]
+    },
+    {
+      "id": "st/alice_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/alice_rinsen.png",
+      "name": "アリス（臨戦）",
+      "group": "STRIKER",
+      "aliases": [
+        "Aris （Battle）",
+        "아리스（전투）",
+        "愛麗絲（臨戰）",
+        "爱丽丝（临战）",
+        "ありす（りんせん）"
+      ]
+    },
+    {
+      "id": "st/aru",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru.png",
+      "name": "アル",
+      "group": "STRIKER",
+      "aliases": [
+        "Aru",
+        "아루",
+        "亞瑠",
+        "爱露",
+        "ある"
+      ]
+    },
+    {
+      "id": "st/aru_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru_dress.png",
+      "name": "アル（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Aru （Dress）",
+        "아루（드레스）",
+        "亞瑠（禮服）",
+        "阿露（礼服）",
+        "ある（どれす）"
+      ]
+    },
+    {
+      "id": "st/aru_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/aru_newyear.png",
+      "name": "アル（正月）",
+      "group": "STRIKER",
+      "aliases": [
+        "Aru （New Year）",
+        "아루（새해）",
+        "亞瑠（正月）",
+        "爱露（新年）",
+        "ある（しょうがつ）"
+      ]
+    },
+    {
+      "id": "st/anna",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/anna.png",
+      "name": "アンナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Anna",
+        "안나",
+        "安娜",
+        "安娜",
+        "あんな"
+      ]
+    },
+    {
+      "id": "st/iori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iori.png",
+      "name": "イオリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Iori",
+        "이오리",
+        "伊織",
+        "伊织",
+        "いおり"
+      ]
+    },
+    {
+      "id": "st/iori_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iori_swimsuit.png",
+      "name": "イオリ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Iori （Swimsuit）",
+        "이오리（수영복）",
+        "伊織（泳裝）",
+        "伊织（泳装）",
+        "いおり（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/izuna",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izuna.png",
+      "name": "イズナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Izuna",
+        "이즈나",
+        "伊樹菜",
+        "泉奈",
+        "いずな"
+      ]
+    },
+    {
+      "id": "st/izuna_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izuna_swimsuit.png",
+      "name": "イズナ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Izuna （Swimsuit）",
+        "이즈나（수영복）",
+        "伊樹菜（泳裝）",
+        "泉奈（泳装）",
+        "いずな（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/izumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izumi.png",
+      "name": "イズミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Izumi",
+        "이즈미",
+        "泉",
+        "泉",
+        "いずみ"
+      ]
+    },
+    {
+      "id": "st/izumi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/izumi_swimsuit.png",
+      "name": "イズミ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Izumi （Swimsuit）",
+        "이즈미（수영복）",
+        "泉（泳裝）",
+        "泉（泳装）",
+        "いずみ（みずぎ）"
+      ]
     },
     {
       "id": "sp/izumi_newyear",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/izumi_newyear.png",
       "name": "イズミ（正月）",
+      "group": "SPECIAL",
       "aliases": [
         "Izumi （New Year）",
         "이즈미（새해）",
         "泉（正月）",
         "泉（正月）",
         "いずみ（しょうがつ）"
-      ],
-      "group": "SPECIAL"
+      ]
+    },
+    {
+      "id": "st/ichika",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ichika.png",
+      "name": "イチカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Ichika",
+        "이치카",
+        "一花",
+        "一花",
+        "いちか"
+      ]
     },
     {
       "id": "sp/ichika_swimsuit",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ichika_swimsuit.png",
       "name": "イチカ（水着）",
+      "group": "SPECIAL",
       "aliases": [
         "Ichika （Swimsuit）",
         "이치카（수영복）",
         "一花（泳裝）",
         "一花（泳装）",
         "いちか（みずぎ）"
-      ],
-      "group": "SPECIAL"
+      ]
     },
     {
-      "id": "sp/iroha",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/iroha.png",
-      "name": "イロハ",
-      "aliases": ["Iroha", "이로하", "伊呂波", "伊吕波", "いろは"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/utaha",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/utaha.png",
-      "name": "ウタハ",
-      "aliases": ["Utaha", "우타하", "詠葉", "歌原", "うたは"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/eimi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/eimi_swimsuit.png",
-      "name": "エイミ（水着）",
+      "id": "st/ibuki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ibuki.png",
+      "name": "イブキ",
+      "group": "STRIKER",
       "aliases": [
-        "Eimi （Swimsuit）",
-        "에이미（수영복）",
-        "英美（泳裝）",
-        "艾米（泳装）",
-        "えいみ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/erika",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/erika.png",
-      "name": "エリカ",
-      "aliases": ["Erika", "에리카", "艾丽卡", "艾麗卡", "えりか"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kaede",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kaede.png",
-      "name": "カエデ",
-      "aliases": ["Kaede", "카에데", "楓", "枫", "かえで"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/karin",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/karin.png",
-      "name": "カリン",
-      "aliases": ["Karin", "카린", "花凛", "花凛", "かりん"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/karin_uniform",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/karin_uniform.png",
-      "name": "カリン（制服）",
-      "aliases": [
-        "Karin （School Uniform）",
-        "카린（교복）",
-        "花凛（制服）",
-        "花凛（制服）",
-        "かりん（せいふく）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kanna",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kanna.png",
-      "name": "カンナ",
-      "aliases": ["Kanna", "칸나", "環奈", "叶渚", "かんな"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kikyou_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kikyou_swimsuit.png",
-      "name": "キキョウ（水着）",
-      "aliases": [
-        "Kikyou （Swimsuit）",
-        "키쿄（수영복）",
-        "桔梗（泳裝）",
-        "桔梗（泳装）",
-        "ききょう（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kisaki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kisaki.png",
-      "name": "キサキ",
-      "aliases": ["Kisaki", "키사키", "妃姬", "木崎", "きさき"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kirino_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kirino_swimsuit.png",
-      "name": "キリノ（水着）",
-      "aliases": [
-        "Kirino （Swimsuit）",
-        "키리노（수영복）",
-        "桐乃（泳裝）",
-        "桐乃（泳装）",
-        "きりの（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/kotama",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kotama.png",
-      "name": "コタマ",
-      "aliases": ["Kotama", "코타마", "小玉", "小玉", "こたま"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/koyuki_pajama",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/koyuki_pajama.png",
-      "name": "コユキ（パジャマ）",
-      "aliases": [
-        "Koyuki （Pajama）",
-        "코유키（파자마）",
-        "小雪（睡衣）",
-        "小雪（睡衣）",
-        "こゆき（ぱじゃま）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/saki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saki.png",
-      "name": "サキ",
-      "aliases": ["Saki", "사키", "咲希", "咲", "さき"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/satsuki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/satsuki.png",
-      "name": "サツキ",
-      "aliases": ["Satsuki", "사츠키", "皋月", "小月", "さつき"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/saya",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saya.png",
-      "name": "サヤ",
-      "aliases": ["Saya", "사야", "沙耶", "纱绫", "さや"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/saya_private",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saya_private.png",
-      "name": "サヤ（私服）",
-      "aliases": [
-        "Saya （Casual）",
-        "사야（사복）",
-        "沙耶（私服）",
-        "纱绫（便服）",
-        "さや（しふく）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/sigure_spa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sigure_spa.png",
-      "name": "シグレ（温泉）",
-      "aliases": [
-        "Shigure （Hot Spring）",
-        "시구레（온천）",
-        "時雨（溫泉）",
-        "时雨（温泉）",
-        "しぐれ（おんせん）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/sizuko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sizuko.png",
-      "name": "シズコ",
-      "aliases": ["Shizuko", "시즈코", "靜子", "静子", "しずこ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/shizuko_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/shizuko_swimsuit.png",
-      "name": "シズコ（水着）",
-      "aliases": [
-        "Shizuko （Swimsuit）",
-        "시즈코（수영복）",
-        "靜子（泳裝）",
-        "静子（泳装）",
-        "しずこ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/simiko",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/simiko.png",
-      "name": "シミコ",
-      "aliases": ["Shimiko", "시미코", "志美子", "志美子", "しみこ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/jyuri",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/jyuri.png",
-      "name": "ジュリ",
-      "aliases": ["Juri", "주리", "茱莉", "朱莉", "じゅり"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/siroko_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/siroko_swimsuit.png",
-      "name": "シロコ（水着）",
-      "aliases": [
-        "Shiroko （Swimsuit）",
-        "시로코（수영복）",
-        "白子（泳裝）",
-        "白子（泳装）",
-        "しろこ（みずぎ）,かじこ"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/sumire_part",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sumire_part.png",
-      "name": "スミレ（アルバイト）",
-      "aliases": [
-        "Sumire （Part-Time）",
-        "스미레（아르바이트）",
-        "堇（打工）",
-        "堇（打工）",
-        "すみれ（あるばいと）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/sena",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sena.png",
-      "name": "セナ",
-      "aliases": ["Sena", "세나", "瀨奈", "濑名", "せな"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/serika_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serika_swimsuit.png",
-      "name": "セリカ（水着）",
-      "aliases": [
-        "Serika （Swimsuit）",
-        "세리카（수영복）",
-        "茜香（泳裝）",
-        "芹香（泳装）",
-        "せりか（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/serika_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serika_newyear.png",
-      "name": "セリカ（正月）",
-      "aliases": [
-        "Serika （New Year）",
-        "세리카（새해）",
-        "茜香（正月）",
-        "芹香（新年）",
-        "せりか（しょうがつ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/serina",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serina.png",
-      "name": "セリナ",
-      "aliases": ["Serina", "세리나", "芹奈", "芹娜", "せりな"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/cherino_spa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/cherino_spa.png",
-      "name": "チェリノ（温泉）",
-      "aliases": [
-        "Cherino （Hot Spring）",
-        "체리노（온천）",
-        "潔莉諾（溫泉）",
-        "切里诺（温泉）",
-        "ちぇりの（おんせん）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/tinatsu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tinatsu.png",
-      "name": "チナツ",
-      "aliases": ["Chinatsu", "치나츠", "千夏", "千夏", "ちなつ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/tihiro",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tihiro.png",
-      "name": "チヒロ",
-      "aliases": ["Chihiro", "치히로", "千尋", "千寻", "ちひろ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/tubaki_guid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tubaki_guid.png",
-      "name": "ツバキ（ガイド）",
-      "aliases": [
-        "Tsubaki （Guide）",
-        "츠바키（가이드）",
-        "椿（導覽員）",
-        "椿（导游）",
-        "つばき（がいど）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/tomoe_cheepaw",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tomoe_cheepaw.png",
-      "name": "トモエ（チーパオ）",
-      "aliases": [
-        "Tomoe （Cheongsam）",
-        "토모에（치파오）",
-        "智惠（旗袍）",
-        "巴（旗袍）",
-        "ともえ（ちーぱお）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/nagisa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nagisa.png",
-      "name": "ナギサ",
-      "aliases": ["Nagisa", "나기사", "渚", "渚", "なぎさ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/nagisa_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nagisa_swimsuit.png",
-      "name": "ナギサ（水着）",
-      "aliases": [
-        "Nagisa （Swimsuit）",
-        "나기사（수영복）",
-        "渚（泳裝）",
-        "渚（泳装）",
-        "なぎさ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/niya",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/niya.png",
-      "name": "ニヤ",
-      "aliases": ["Niya", "니야", "妮娅", "妮亞", "にや"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/nodoka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nodoka.png",
-      "name": "ノドカ",
-      "aliases": ["Nodoka", "노도카", "和香", "和香", "のどか"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/nodoka_spa",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nodoka_spa.png",
-      "name": "ノドカ（温泉）",
-      "aliases": [
-        "Nodoka （Hot Spring）",
-        "노도카（온천）",
-        "和香（溫泉）",
-        "和香（温泉）",
-        "のどか（おんせん）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hanae",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanae.png",
-      "name": "ハナエ",
-      "aliases": ["Hanae", "하나에", "花繪", "花江", "はなえ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hanae_christmas",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanae_christmas.png",
-      "name": "ハナエ（クリスマス）",
-      "aliases": [
-        "Hanae （Christmas）",
-        "하나에（크리스마스）",
-        "花繪（聖誕節）",
-        "花江（圣诞节）",
-        "はなえ（くりすます）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hanako",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanako.png",
-      "name": "ハナコ",
-      "aliases": ["Hanako", "하나코", "花子", "花子", "はなこ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/haruka_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/haruka_newyear.png",
-      "name": "ハルカ（正月）",
-      "aliases": [
-        "Haruka （New Year）",
-        "하루카（새해）",
-        "遙香（正月）",
-        "春香（正月）",
-        "はるか（しょうがつ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/haruna_gym",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/haruna_gym.png",
-      "name": "ハルナ（体操服）",
-      "aliases": [
-        "Haruna （Track）",
-        "하루나（체육복）",
-        "羽留奈（體育服）",
-        "晴奈（运动服）",
-        "はるな（たいそうふく）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hare",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hare.png",
-      "name": "ハレ",
-      "aliases": ["Hare", "하레", "晴", "晴", "はれ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hinata_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hinata_swimsuit.png",
-      "name": "ヒナタ（水着）",
-      "aliases": [
-        "Hinata （Swimsuit）",
-        "히나타（수영복）",
-        "日向（泳裝）",
-        "日向（泳装）",
-        "ひなた（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hibiki",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hibiki.png",
-      "name": "ヒビキ",
-      "aliases": ["Hibiki", "히비키", "響", "响", "ひびき"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hifumi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hifumi_swimsuit.png",
-      "name": "ヒフミ（水着）",
-      "aliases": [
-        "Hifumi （Swimsuit）",
-        "히후미（수영복）",
-        "日步美（泳裝）",
-        "日富美（泳装）",
-        "ひふみ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/himari",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/himari.png",
-      "name": "ヒマリ",
-      "aliases": ["Himari", "히마리", "陽葵", "日鞠", "ひまり"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/himari_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/himari_rinsen.png",
-      "name": "ヒマリ（臨戦）",
-      "aliases": [
-        "Himari （Battle）",
-        "히마리（전투）",
-        "陽葵（臨戰）",
-        "日鞠（临战）",
-        "ひまり（りんせん）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/hiyori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hiyori.png",
-      "name": "ヒヨリ",
-      "aliases": ["Hiyori", "히요리", "日和", "日和", "ひより"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/fi-na_guid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fi-na_guid.png",
-      "name": "フィーナ（ガイド）",
-      "aliases": [
-        "Pina （Guide）",
-        "피나（가이드）",
-        "菲娜（嚮導）",
-        "菲娜（向导）",
-        "ふぃーな（がいど）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/fuuka",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fuuka.png",
-      "name": "フウカ",
-      "aliases": ["Fuuka", "후우카", "風華", "风香", "ふうか"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/fuuka_newyear",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fuuka_newyear.png",
-      "name": "フウカ（正月）",
-      "aliases": [
-        "Fuuka （New Year）",
-        "후우카（새해）",
-        "風華（正月）",
-        "风香（正月）",
-        "ふうか（しょうがつ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/fubuki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fubuki_swimsuit.png",
-      "name": "フブキ（水着）",
-      "aliases": [
-        "Fubuki （Swimsuit）",
-        "후부키（수영복）",
-        "吹雪（泳裝）",
-        "吹雪（泳装）",
-        "ふぶき（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/maki_camp",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/maki_camp.png",
-      "name": "マキ（キャンプ）",
-      "aliases": [
-        "Maki （Camp）",
-        "마키（캠핑）",
-        "真紀（露營）",
-        "真纪（露营）",
-        "まき（きゃんぷ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/makoto",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/makoto.png",
-      "name": "マコト",
-      "aliases": ["Makoto", "마코토", "真琴", "真琴", "まこと"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/mashiro",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mashiro.png",
-      "name": "マシロ",
-      "aliases": ["Mashiro", "마시로", "麻白", "真白", "ましろ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/mashiro_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mashiro_swimsuit.png",
-      "name": "マシロ（水着）",
-      "aliases": [
-        "Mashiro （Swimsuit）",
-        "마시로（수영복）",
-        "麻白（泳裝）",
-        "真白（泳装）",
-        "ましろ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/mari-",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mari-.png",
-      "name": "マリー",
-      "aliases": ["Mari", "마리", "瑪麗", "玛丽", "まりー"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/misaki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/misaki_swimsuit.png",
-      "name": "ミサキ（水着）",
-      "aliases": [
-        "Misaki （Swimsuit）",
-        "미사키（수영복）",
-        "美咲（泳裝）",
-        "美咲（泳装）",
-        "みさき（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/michiru_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/michiru_dress.png",
-      "name": "ミチル（ドレス）",
-      "aliases": [
-        "Michiru （Dress）",
-        "미치루（드레스）",
-        "三千留（禮服）",
-        "满（礼服）",
-        "みちる（どれす）,どちる"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/minori",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/minori.png",
-      "name": "ミノリ",
-      "aliases": ["Minori", "미노리", "實里", "实里", "みのり"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/mimori_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mimori_swimsuit.png",
-      "name": "ミモリ（水着）",
-      "aliases": [
-        "Mimori （Swimsuit）",
-        "미모리（수영복）",
-        "三森（泳裝）",
-        "三森（泳装）",
-        "みもり（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/miyu_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/miyu_swimsuit.png",
-      "name": "ミユ（水着）",
-      "aliases": [
-        "Miyu （Swimsuit）",
-        "미유（수영복）",
-        "美優（泳裝）",
-        "美游（泳装）",
-        "みゆ（みずぎ）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/mutsuki_dress",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mutsuki_dress.png",
-      "name": "ムツキ（ドレス）",
-      "aliases": [
-        "Mutsuki （Dress）",
-        "무츠키（드레스）",
-        "無月（禮服）",
-        "睦月（礼服）",
-        "むつき（どれす）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/moe",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/moe.png",
-      "name": "モエ",
-      "aliases": ["Moe", "모에", "萌", "萌绘", "もえ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/yakumo",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yakumo.png",
-      "name": "ヤクモ",
-      "aliases": ["Yakumo", "야쿠모", "八雲", "八云", "やくも"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/yuzu_maid",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_maid.png",
-      "name": "ユズ（メイド）",
-      "aliases": [
-        "Yuzu （Maid）",
-        "유즈（메이드）",
-        "柚子（女僕）",
-        "柚子（女仆）",
-        "ゆず（めいど）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/yuzu_rinsen",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_rinsen.png",
-      "name": "ユズ（臨戦）",
-      "aliases": [
-        "Yuzu （Battle）",
-        "유즈（전투）",
-        "柚子（臨戰）",
-        "柚子（临战）",
-        "ゆず（りんせん）"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/yoshimi",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yoshimi.png",
-      "name": "ヨシミ",
-      "aliases": ["Yoshimi", "요시미", "喜美", "好美", "よしみ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/rio",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/rio.png",
-      "name": "リオ",
-      "aliases": ["Rio", "리오", "莉央", "莉央", "りお"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/ritsu",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ritsu.png",
-      "name": "リツ",
-      "aliases": ["Ritsu", "리츠", "律", "律", "りつ"],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/reisa_magic",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/reisa_magic.png",
-      "name": "レイサ（マジカル）",
-      "aliases": [
-        "Reisa （Magical）",
-        "레이사（매지컬）",
-        "澪紗（魔法）",
-        "玲纱（魔法）",
-        "れいさ（まじかる）,てるぴ,まじれいさ"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/shaten",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/shaten.png",
-      "name": "佐天涙子",
-      "aliases": [
-        "Saten Ruiko",
-        "사텐 루이코",
-        "佐天涙子",
-        "佐天泪子",
-        "さてんるいこ"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/miku",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/miku.png",
-      "name": "初音ミク",
-      "aliases": [
-        "Hatsune Miku",
-        "하츠네 미쿠",
-        "初音未來",
-        "初音未来",
-        "はつねみく"
-      ],
-      "group": "SPECIAL"
-    },
-    {
-      "id": "sp/tiaki_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tiaki_swimsuit.png",
-      "name": "チアキ（水着）",
-      "aliases": [
-        "Chiaki（Swimsuit）",
-        "치아키（수영복）",
-        "千秋（泳裝）",
-        "千秋（泳装）",
-        "ちあき（みずぎ）"
-      ],
-      "group": "SPECIAL"
+        "Ibuki",
+        "이부키",
+        "伊吹",
+        "伊吹",
+        "いぶき"
+      ]
     },
     {
       "id": "sp/ibuki_swimsuit",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ibuki_swimsuit.png",
       "name": "イブキ（水着）",
+      "group": "SPECIAL",
       "aliases": [
         "Ibuki（Swimsuit）",
         "이부키（수영복）",
         "伊吹（泳裝）",
         "伊吹（泳装）",
         "いぶき（みずぎ）"
-      ],
-      "group": "SPECIAL"
+      ]
     },
     {
-      "id": "sp/kasumi_swimsuit",
-      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kasumi_swimsuit.png",
-      "name": "カスミ（水着）",
-      "aliases": ["Kasumi", "카스미", "佳澄", "霞", "かすみ"],
-      "group": "SPECIAL"
+      "id": "sp/iroha",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/iroha.png",
+      "name": "イロハ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Iroha",
+        "이로하",
+        "伊呂波",
+        "伊吕波",
+        "いろは"
+      ]
+    },
+    {
+      "id": "st/iroha_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/iroha_swimsuit.png",
+      "name": "イロハ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Iroha（Swimsuit）",
+        "이로하（수영복）",
+        "伊呂波（泳裝）",
+        "伊吕波（泳装）",
+        "いろは（みずぎ）,みずいろは"
+      ]
+    },
+    {
+      "id": "st/ui",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ui.png",
+      "name": "ウイ",
+      "group": "STRIKER",
+      "aliases": [
+        "Ui",
+        "우이",
+        "憂",
+        "忧",
+        "うい"
+      ]
+    },
+    {
+      "id": "st/ui_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/ui_swimsuit.png",
+      "name": "ウイ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Ui （Swimsuit）",
+        "우이（수영복）",
+        "憂（泳裝）",
+        "忧（泳装）",
+        "うい（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/utaha",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/utaha.png",
+      "name": "ウタハ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Utaha",
+        "우타하",
+        "詠葉",
+        "歌原",
+        "うたは"
+      ]
+    },
+    {
+      "id": "st/utaha_cheerleader",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/utaha_cheerleader.png",
+      "name": "ウタハ（応援団）",
+      "group": "STRIKER",
+      "aliases": [
+        "Utaha （Cheer Squad）",
+        "우타하（응원단）",
+        "詠葉（應援團）",
+        "歌原（应援团）",
+        "うたは（おうえんだん）"
+      ]
+    },
+    {
+      "id": "st/umika",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/umika.png",
+      "name": "ウミカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Umika",
+        "우미카",
+        "海花",
+        "海香",
+        "うみか"
+      ]
+    },
+    {
+      "id": "st/eimi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eimi.png",
+      "name": "エイミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Eimi",
+        "에이미",
+        "英美",
+        "艾米",
+        "えいみ"
+      ]
+    },
+    {
+      "id": "sp/eimi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/eimi_swimsuit.png",
+      "name": "エイミ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Eimi （Swimsuit）",
+        "에이미（수영복）",
+        "英美（泳裝）",
+        "艾米（泳装）",
+        "えいみ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/eimi_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eimi_rinsen.png",
+      "name": "エイミ（臨戦）",
+      "group": "STRIKER",
+      "aliases": [
+        "Eimi （Battle）",
+        "에이미（전투）",
+        "英美（臨戰）",
+        "艾米（临战）",
+        "えいみ（りんせん）"
+      ]
+    },
+    {
+      "id": "st/eri",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/eri.png",
+      "name": "エリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Eri",
+        "엘리",
+        "繪里",
+        "艾莉",
+        "えり"
+      ]
+    },
+    {
+      "id": "sp/erika",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/erika.png",
+      "name": "エリカ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Erika",
+        "에리카",
+        "艾丽卡",
+        "艾麗卡",
+        "えりか"
+      ]
     },
     {
       "id": "sp/erina",
       "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/erina.png",
       "name": "エリナ",
-      "aliases": ["Erina", "엘리나", "艾莉娜", "艾丽娜", "えりな"],
-      "group": "SPECIAL"
+      "group": "SPECIAL",
+      "aliases": [
+        "Erina",
+        "엘리나",
+        "艾莉娜",
+        "艾丽娜",
+        "えりな"
+      ]
+    },
+    {
+      "id": "st/otogi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/otogi.png",
+      "name": "オトギ",
+      "group": "STRIKER",
+      "aliases": [
+        "Otogi",
+        "오토기",
+        "乙木",
+        "乙木",
+        "おとぎ"
+      ]
+    },
+    {
+      "id": "sp/kaede",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kaede.png",
+      "name": "カエデ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kaede",
+        "카에데",
+        "楓",
+        "枫",
+        "かえで"
+      ]
+    },
+    {
+      "id": "st/kazusa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kazusa.png",
+      "name": "カズサ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kazusa",
+        "카즈사",
+        "千紗",
+        "和纱",
+        "かずさ"
+      ]
+    },
+    {
+      "id": "st/kazusa_band",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kazusa_band.png",
+      "name": "カズサ（バンド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kazusa （Band）",
+        "카즈사（밴드）",
+        "千紗（樂隊）",
+        "和纱（乐队）",
+        "かずさ（ばんど）"
+      ]
+    },
+    {
+      "id": "st/kasumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kasumi.png",
+      "name": "カスミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kasumi",
+        "카스미",
+        "佳澄",
+        "霞",
+        "かすみ"
+      ]
+    },
+    {
+      "id": "sp/kasumi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kasumi_swimsuit.png",
+      "name": "カスミ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kasumi",
+        "카스미",
+        "佳澄",
+        "霞",
+        "かすみ"
+      ]
+    },
+    {
+      "id": "st/kanoe",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kanoe.png",
+      "name": "カノエ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kanoe",
+        "카노에",
+        "鹿江",
+        "卡諾",
+        "かのえ"
+      ]
+    },
+    {
+      "id": "st/kaho",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kaho.png",
+      "name": "カホ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kaho",
+        "카호",
+        "佳穗",
+        "果穗",
+        "かほ"
+      ]
+    },
+    {
+      "id": "st/kayoko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko.png",
+      "name": "カヨコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kayoko",
+        "카요코",
+        "佳世子",
+        "佳代子",
+        "かよこ"
+      ]
+    },
+    {
+      "id": "st/kayoko_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko_dress.png",
+      "name": "カヨコ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kayoko （Dress）",
+        "카요코（드레스）",
+        "佳世子（禮服）",
+        "佳代子（礼服）",
+        "かよこ（どれす）"
+      ]
+    },
+    {
+      "id": "st/kayoko_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kayoko_newyear.png",
+      "name": "カヨコ（正月）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kayoko （New Year）",
+        "카요코（새해）",
+        "佳世子（正月）",
+        "佳代子（正月）",
+        "かよこ（しょうがつ）"
+      ]
+    },
+    {
+      "id": "sp/karin",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/karin.png",
+      "name": "カリン",
+      "group": "SPECIAL",
+      "aliases": [
+        "Karin",
+        "카린",
+        "花凛",
+        "花凛",
+        "かりん"
+      ]
+    },
+    {
+      "id": "st/karin_bunnie",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/karin_bunnie.png",
+      "name": "カリン（バニーガール）",
+      "group": "STRIKER",
+      "aliases": [
+        "Karin （Bunny）",
+        "카린（바니걸）",
+        "花凛（兔女郎）",
+        "花凛（邦妮）",
+        "かりん（ばにーがーる）"
+      ]
+    },
+    {
+      "id": "sp/karin_uniform",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/karin_uniform.png",
+      "name": "カリン（制服）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Karin （School Uniform）",
+        "카린（교복）",
+        "花凛（制服）",
+        "花凛（制服）",
+        "かりん（せいふく）"
+      ]
+    },
+    {
+      "id": "sp/kanna",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kanna.png",
+      "name": "カンナ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kanna",
+        "칸나",
+        "環奈",
+        "叶渚",
+        "かんな"
+      ]
+    },
+    {
+      "id": "st/kanna_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kanna_swimsuit.png",
+      "name": "カンナ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kanna （Swimsuit）",
+        "칸나（수영복）",
+        "環奈（泳裝）",
+        "叶渚（泳装）",
+        "かんな（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/kikyou",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kikyou.png",
+      "name": "キキョウ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kikyou",
+        "키쿄",
+        "桔梗",
+        "桔梗",
+        "ききょう"
+      ]
+    },
+    {
+      "id": "sp/kikyou_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kikyou_swimsuit.png",
+      "name": "キキョウ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kikyou （Swimsuit）",
+        "키쿄（수영복）",
+        "桔梗（泳裝）",
+        "桔梗（泳装）",
+        "ききょう（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/kisaki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kisaki.png",
+      "name": "キサキ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kisaki",
+        "키사키",
+        "妃姬",
+        "木崎",
+        "きさき"
+      ]
+    },
+    {
+      "id": "st/kisaki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kisaki_swimsuit.png",
+      "name": "キサキ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kisaki （Swimsuit）",
+        "키사키（수영복）",
+        "妃姬（泳裝）",
+        "木崎（泳装）",
+        "きさき（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/kirara",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kirara.png",
+      "name": "キララ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kirara",
+        "키라라",
+        "綺羅羅",
+        "绮罗罗",
+        "きらら"
+      ]
+    },
+    {
+      "id": "st/kirino",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kirino.png",
+      "name": "キリノ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kirino",
+        "키리노",
+        "桐乃",
+        "桐乃",
+        "きりの"
+      ]
+    },
+    {
+      "id": "sp/kirino_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kirino_swimsuit.png",
+      "name": "キリノ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kirino （Swimsuit）",
+        "키리노（수영복）",
+        "桐乃（泳裝）",
+        "桐乃（泳装）",
+        "きりの（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/kurumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kurumi.png",
+      "name": "クルミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Walnut",
+        "호두",
+        "胡桃",
+        "核桃",
+        "くるみ"
+      ]
+    },
+    {
+      "id": "st/kei",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kei.png",
+      "name": "ケイ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kei",
+        "케이",
+        "圭",
+        "蓋",
+        "けい"
+      ]
+    },
+    {
+      "id": "st/kokona",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kokona.png",
+      "name": "ココナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kokona",
+        "코코나",
+        "心菜",
+        "心奈",
+        "ここな"
+      ]
+    },
+    {
+      "id": "st/cocoro",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/cocoro.png",
+      "name": "ココロ",
+      "group": "STRIKER",
+      "aliases": [
+        "Cocoro",
+        "코코로",
+        "心",
+        "心",
+        "こころ"
+      ]
+    },
+    {
+      "id": "sp/kotama",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/kotama.png",
+      "name": "コタマ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Kotama",
+        "코타마",
+        "小玉",
+        "小玉",
+        "こたま"
+      ]
+    },
+    {
+      "id": "st/kotama_camp",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotama_camp.png",
+      "name": "コタマ（キャンプ）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kotama （Camp）",
+        "코타마（캠핑）",
+        "小玉（露營）",
+        "小玉（露营）",
+        "こたま（きゃんぷ）"
+      ]
+    },
+    {
+      "id": "st/kotone",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotone.png",
+      "name": "コトネ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kotone",
+        "코토네",
+        "琴音",
+        "琴音",
+        "ことね"
+      ]
+    },
+    {
+      "id": "st/kotori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotori.png",
+      "name": "コトリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Kotori",
+        "코토리",
+        "亞都梨",
+        "琴里",
+        "ことり"
+      ]
+    },
+    {
+      "id": "st/kotori_cheerleader",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/kotori_cheerleader.png",
+      "name": "コトリ（応援団）",
+      "group": "STRIKER",
+      "aliases": [
+        "Kotori （Cheer Squad）",
+        "코토리（응원단）",
+        "亞都梨（應援團）",
+        "琴里（应援团）",
+        "ことり（おうえんだん）"
+      ]
+    },
+    {
+      "id": "st/konoka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/konoka.png",
+      "name": "コノカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Konoka",
+        "코노카",
+        "小乃香",
+        "小乃香",
+        "このか"
+      ]
+    },
+    {
+      "id": "st/koharu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koharu.png",
+      "name": "コハル",
+      "group": "STRIKER",
+      "aliases": [
+        "Koharu",
+        "코하루",
+        "小春",
+        "小春",
+        "こはる"
+      ]
+    },
+    {
+      "id": "st/koharu_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koharu_swimsuit.png",
+      "name": "コハル（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Koharu （Swimsuit）",
+        "코하루（수영복）",
+        "小春（泳裝）",
+        "小春（泳装）",
+        "こはる（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/koyuki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/koyuki.png",
+      "name": "コユキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Koyuki",
+        "코유키",
+        "小雪",
+        "小雪",
+        "こゆき"
+      ]
+    },
+    {
+      "id": "sp/koyuki_pajama",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/koyuki_pajama.png",
+      "name": "コユキ（パジャマ）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Koyuki （Pajama）",
+        "코유키（파자마）",
+        "小雪（睡衣）",
+        "小雪（睡衣）",
+        "こゆき（ぱじゃま）"
+      ]
+    },
+    {
+      "id": "st/saori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori.png",
+      "name": "サオリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Saori",
+        "사오리",
+        "沙織",
+        "纱织",
+        "さおり"
+      ]
+    },
+    {
+      "id": "st/saori_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori_dress.png",
+      "name": "サオリ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Saori （Dress）",
+        "사오리（드레스）",
+        "沙織（禮服）",
+        "纱织（礼服）",
+        "さおり（どれす）"
+      ]
+    },
+    {
+      "id": "st/saori_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saori_swimsuit.png",
+      "name": "サオリ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Saori （Swimsuit）",
+        "사오리（수영복）",
+        "沙織（泳裝）",
+        "纱织（泳装）",
+        "さおり（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/saki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saki.png",
+      "name": "サキ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Saki",
+        "사키",
+        "咲希",
+        "咲",
+        "さき"
+      ]
+    },
+    {
+      "id": "st/saki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/saki_swimsuit.png",
+      "name": "サキ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Saki （Swimsuit）",
+        "사키（수영복）",
+        "咲希（泳裝）",
+        "咲（泳装）",
+        "さき（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/sakurako",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sakurako.png",
+      "name": "サクラコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Sakurako",
+        "사쿠라코",
+        "櫻子",
+        "樱子",
+        "さくらこ"
+      ]
+    },
+    {
+      "id": "st/sakurako_idol",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sakurako_idol.png",
+      "name": "サクラコ（アイドル）",
+      "group": "STRIKER",
+      "aliases": [
+        "Sakurako （Idol）",
+        "사쿠라코（아이돌）",
+        "櫻子（偶像）",
+        "樱子（偶像）",
+        "さくらこ（あいどる）"
+      ]
+    },
+    {
+      "id": "sp/satsuki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/satsuki.png",
+      "name": "サツキ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Satsuki",
+        "사츠키",
+        "皋月",
+        "小月",
+        "さつき"
+      ]
+    },
+    {
+      "id": "st/satsuki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/satsuki_swimsuit.png",
+      "name": "サツキ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Satsuki（Swimsuit）",
+        "사츠키（수영복）",
+        "皋月（泳裝）",
+        "小月（泳装）",
+        "さつき（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/saya",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saya.png",
+      "name": "サヤ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Saya",
+        "사야",
+        "沙耶",
+        "纱绫",
+        "さや"
+      ]
+    },
+    {
+      "id": "sp/saya_private",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/saya_private.png",
+      "name": "サヤ（私服）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Saya （Casual）",
+        "사야（사복）",
+        "沙耶（私服）",
+        "纱绫（便服）",
+        "さや（しふく）"
+      ]
+    },
+    {
+      "id": "st/sigure",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sigure.png",
+      "name": "シグレ",
+      "group": "STRIKER",
+      "aliases": [
+        "Shigure",
+        "시구레",
+        "時雨",
+        "时雨",
+        "しぐれ"
+      ]
+    },
+    {
+      "id": "sp/sigure_spa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sigure_spa.png",
+      "name": "シグレ（温泉）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Shigure （Hot Spring）",
+        "시구레（온천）",
+        "時雨（溫泉）",
+        "时雨（温泉）",
+        "しぐれ（おんせん）"
+      ]
+    },
+    {
+      "id": "sp/sizuko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sizuko.png",
+      "name": "シズコ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Shizuko",
+        "시즈코",
+        "靜子",
+        "静子",
+        "しずこ"
+      ]
+    },
+    {
+      "id": "sp/shizuko_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/shizuko_swimsuit.png",
+      "name": "シズコ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Shizuko （Swimsuit）",
+        "시즈코（수영복）",
+        "靜子（泳裝）",
+        "静子（泳装）",
+        "しずこ（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/simiko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/simiko.png",
+      "name": "シミコ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Shimiko",
+        "시미코",
+        "志美子",
+        "志美子",
+        "しみこ"
+      ]
+    },
+    {
+      "id": "st/shueirin_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/shueirin_swimsuit.png",
+      "name": "シュエリン（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Shueirin（Swimsuit）",
+        "슈에린（수영복）",
+        "雪林（泳裝）",
+        "雪林（泳装）",
+        "しゅえりん（みずぎ）,しゅん"
+      ]
+    },
+    {
+      "id": "sp/jyuri",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/jyuri.png",
+      "name": "ジュリ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Juri",
+        "주리",
+        "茱莉",
+        "朱莉",
+        "じゅり"
+      ]
+    },
+    {
+      "id": "st/jyuri_part",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyuri_part.png",
+      "name": "ジュリ（アルバイト）",
+      "group": "STRIKER",
+      "aliases": [
+        "Juri （Part-Time）",
+        "주리（아르바이트）",
+        "茱莉（打工）",
+        "朱莉（打工）",
+        "じゅり（あるばいと）"
+      ]
+    },
+    {
+      "id": "st/syun",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syun.png",
+      "name": "シュン",
+      "group": "STRIKER",
+      "aliases": [
+        "Shun",
+        "슌",
+        "旬",
+        "瞬",
+        "しゅん"
+      ]
+    },
+    {
+      "id": "st/shun_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/shun_swimsuit.png",
+      "name": "シュン（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Shun（Swimsuit）",
+        "슌（수영복）",
+        "旬（泳裝）",
+        "瞬（泳装）",
+        "しゅん（みずぎ）,しゅん"
+      ]
+    },
+    {
+      "id": "st/syun_infant",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syun_infant.png",
+      "name": "シュン（幼女）",
+      "group": "STRIKER",
+      "aliases": [
+        "Shun （Small）",
+        "슌（어린이）",
+        "旬（幼女）",
+        "瞬（小）",
+        "しゅん（幼女）"
+      ]
+    },
+    {
+      "id": "st/jyunko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyunko.png",
+      "name": "ジュンコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Junko",
+        "준코",
+        "淳子",
+        "纯子",
+        "じゅんこ"
+      ]
+    },
+    {
+      "id": "st/jyunko_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/jyunko_newyear.png",
+      "name": "ジュンコ（正月）",
+      "group": "STRIKER",
+      "aliases": [
+        "Junko （New Year）",
+        "준코（새해）",
+        "淳子（正月）",
+        "纯子（正月）",
+        "じゅんこ（しょうがつ）"
+      ]
+    },
+    {
+      "id": "st/siroko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko.png",
+      "name": "シロコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Shiroko",
+        "시로코",
+        "白子",
+        "白子",
+        "しろこ"
+      ]
+    },
+    {
+      "id": "st/siroko_bicycle",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko_bicycle.png",
+      "name": "シロコ（ライディング）",
+      "group": "STRIKER",
+      "aliases": [
+        "Shiroko （Cycling）",
+        "시로코（라이딩）",
+        "白子（單車）",
+        "白子（骑行）",
+        "しろこ（らいでぃんぐ）"
+      ]
+    },
+    {
+      "id": "sp/siroko_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/siroko_swimsuit.png",
+      "name": "シロコ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Shiroko （Swimsuit）",
+        "시로코（수영복）",
+        "白子（泳裝）",
+        "白子（泳装）",
+        "しろこ（みずぎ）,かじこ"
+      ]
+    },
+    {
+      "id": "st/siroko_terror",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/siroko_terror.png",
+      "name": "シロコ＊テラー",
+      "group": "STRIKER",
+      "aliases": [
+        "Shiroko Terror",
+        "시로코*테러",
+        "白子＊恐怖",
+        "白子＊恐怖",
+        "しろこ＊てらー,くろこ,しろこてらー"
+      ]
+    },
+    {
+      "id": "st/suzumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/suzumi.png",
+      "name": "スズミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Suzumi",
+        "스즈미",
+        "鈴美",
+        "铃美",
+        "すずみ"
+      ]
+    },
+    {
+      "id": "st/suzumi_magic",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/suzumi_magic.png",
+      "name": "スズミ（マジカル）",
+      "group": "STRIKER",
+      "aliases": [
+        "Suzumi （Magical）",
+        "스즈미（매지컬）",
+        "鈴美（魔法）",
+        "铃美（魔法）",
+        "すずみ（まじかる）"
+      ]
+    },
+    {
+      "id": "st/subaru",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/subaru.png",
+      "name": "スバル",
+      "group": "STRIKER",
+      "aliases": [
+        "Subaru",
+        "스바루",
+        "斯巴鲁",
+        "速霸陸",
+        "すばる"
+      ]
+    },
+    {
+      "id": "st/sumire",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sumire.png",
+      "name": "スミレ",
+      "group": "STRIKER",
+      "aliases": [
+        "Sumire",
+        "스미레",
+        "堇",
+        "堇",
+        "すみれ"
+      ]
+    },
+    {
+      "id": "sp/sumire_part",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sumire_part.png",
+      "name": "スミレ（アルバイト）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Sumire （Part-Time）",
+        "스미레（아르바이트）",
+        "堇（打工）",
+        "堇（打工）",
+        "すみれ（あるばいと）"
+      ]
+    },
+    {
+      "id": "st/seia",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/seia.png",
+      "name": "セイア",
+      "group": "STRIKER",
+      "aliases": [
+        "Seiya",
+        "세이아",
+        "圣哉",
+        "聖哉",
+        "せいあ"
+      ]
+    },
+    {
+      "id": "st/seia_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/seia_swimsuit.png",
+      "name": "セイア（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Seia （swimsuit）",
+        "세이아（수영복）",
+        "Seia（泳装）",
+        "Seia（泳裝）",
+        "せいあ（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/sena",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/sena.png",
+      "name": "セナ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Sena",
+        "세나",
+        "瀨奈",
+        "濑名",
+        "せな"
+      ]
+    },
+    {
+      "id": "st/sena_private",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/sena_private.png",
+      "name": "セナ（私服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Sena （Casual）",
+        "세나（사복）",
+        "瀬奈（便服）",
+        "濑名（便服）",
+        "せな（しふく）"
+      ]
+    },
+    {
+      "id": "st/serika",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/serika.png",
+      "name": "セリカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Serika",
+        "세리카",
+        "茜香",
+        "芹香",
+        "せりか"
+      ]
+    },
+    {
+      "id": "sp/serika_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serika_swimsuit.png",
+      "name": "セリカ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Serika （Swimsuit）",
+        "세리카（수영복）",
+        "茜香（泳裝）",
+        "芹香（泳装）",
+        "せりか（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/serika_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serika_newyear.png",
+      "name": "セリカ（正月）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Serika （New Year）",
+        "세리카（새해）",
+        "茜香（正月）",
+        "芹香（新年）",
+        "せりか（しょうがつ）"
+      ]
+    },
+    {
+      "id": "sp/serina",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/serina.png",
+      "name": "セリナ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Serina",
+        "세리나",
+        "芹奈",
+        "芹娜",
+        "せりな"
+      ]
+    },
+    {
+      "id": "st/serina_christmas",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/serina_christmas.png",
+      "name": "セリナ（クリスマス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Serina （Christmas）",
+        "세리나（크리스마스）",
+        "芹奈（聖誕節）",
+        "芹娜（圣诞节）",
+        "せりな（くりすます）"
+      ]
+    },
+    {
+      "id": "st/takane",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/takane.png",
+      "name": "タカネ",
+      "group": "STRIKER",
+      "aliases": [
+        "Takane",
+        "타카네",
+        "高根",
+        "高根",
+        "たかね"
+      ]
+    },
+    {
+      "id": "st/tiaki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tiaki.png",
+      "name": "チアキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Chiaki",
+        "치아키",
+        "千秋",
+        "千秋",
+        "ちあき"
+      ]
+    },
+    {
+      "id": "sp/tiaki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tiaki_swimsuit.png",
+      "name": "チアキ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Chiaki（Swimsuit）",
+        "치아키（수영복）",
+        "千秋（泳裝）",
+        "千秋（泳装）",
+        "ちあき（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/cherino",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/cherino.png",
+      "name": "チェリノ",
+      "group": "STRIKER",
+      "aliases": [
+        "Cherino",
+        "체리노",
+        "潔莉諾",
+        "切里诺",
+        "ちぇりの"
+      ]
+    },
+    {
+      "id": "sp/cherino_spa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/cherino_spa.png",
+      "name": "チェリノ（温泉）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Cherino （Hot Spring）",
+        "체리노（온천）",
+        "潔莉諾（溫泉）",
+        "切里诺（温泉）",
+        "ちぇりの（おんせん）"
+      ]
+    },
+    {
+      "id": "st/tise",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tise.png",
+      "name": "チセ",
+      "group": "STRIKER",
+      "aliases": [
+        "Chise",
+        "치세",
+        "知世",
+        "千世",
+        "ちせ"
+      ]
+    },
+    {
+      "id": "st/tise_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tise_swimsuit.png",
+      "name": "チセ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Chise （Swimsuit）",
+        "치세（수영복）",
+        "知世（泳裝）",
+        "千世（泳装）",
+        "ちせ（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/tinatsu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tinatsu.png",
+      "name": "チナツ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Chinatsu",
+        "치나츠",
+        "千夏",
+        "千夏",
+        "ちなつ"
+      ]
+    },
+    {
+      "id": "st/tinatsu_spa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tinatsu_spa.png",
+      "name": "チナツ（温泉）",
+      "group": "STRIKER",
+      "aliases": [
+        "Chinatsu （Hot Spring）",
+        "치나츠（온천）",
+        "千夏（溫泉）",
+        "千夏（温泉）",
+        "ちなつ（おんせん）"
+      ]
+    },
+    {
+      "id": "sp/tihiro",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tihiro.png",
+      "name": "チヒロ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Chihiro",
+        "치히로",
+        "千尋",
+        "千寻",
+        "ちひろ"
+      ]
+    },
+    {
+      "id": "st/tukuyo",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tukuyo.png",
+      "name": "ツクヨ",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsukuyo",
+        "츠쿠요",
+        "月夜",
+        "月咏",
+        "つくよ"
+      ]
+    },
+    {
+      "id": "st/tukuyo_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tukuyo_dress.png",
+      "name": "ツクヨ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsukuyo （Dress）",
+        "츠쿠요（드레스）",
+        "月夜（禮服）",
+        "月咏（礼服）",
+        "つくよ（どれす）"
+      ]
+    },
+    {
+      "id": "st/tubaki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tubaki.png",
+      "name": "ツバキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsubaki",
+        "츠바키",
+        "椿",
+        "椿",
+        "つばき"
+      ]
+    },
+    {
+      "id": "sp/tubaki_guid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tubaki_guid.png",
+      "name": "ツバキ（ガイド）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Tsubaki （Guide）",
+        "츠바키（가이드）",
+        "椿（導覽員）",
+        "椿（导游）",
+        "つばき（がいど）"
+      ]
+    },
+    {
+      "id": "st/tsumugi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tsumugi.png",
+      "name": "ツムギ",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsumugi",
+        "참기",
+        "紬",
+        "紬",
+        "つむぎ"
+      ]
+    },
+    {
+      "id": "st/turugi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/turugi.png",
+      "name": "ツルギ",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsurugi",
+        "츠루기",
+        "弦生",
+        "鹤城",
+        "つるぎ"
+      ]
+    },
+    {
+      "id": "st/turugi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/turugi_swimsuit.png",
+      "name": "ツルギ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Tsurugi （Swimsuit）",
+        "츠루기（수영복）",
+        "弦生（泳裝）",
+        "鹤城（泳装）",
+        "つるぎ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/toki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki.png",
+      "name": "トキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Toki",
+        "토키",
+        "季",
+        "时",
+        "とき"
+      ]
+    },
+    {
+      "id": "st/toki_bunnie",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki_bunnie.png",
+      "name": "トキ（バニーガール）",
+      "group": "STRIKER",
+      "aliases": [
+        "Toki （Bunny）",
+        "토키（바니걸）",
+        "季（兔女郎）",
+        "时（兔女郎）",
+        "とき（ばにーがーる）"
+      ]
+    },
+    {
+      "id": "st/toki_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/toki_rinsen.png",
+      "name": "トキ（臨戦）",
+      "group": "STRIKER",
+      "aliases": [
+        "Toki （Battle）",
+        "토키（전투）",
+        "季（臨戰）",
+        "时（临战）",
+        "とき（りんせん）"
+      ]
+    },
+    {
+      "id": "st/tomoe",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/tomoe.png",
+      "name": "トモエ",
+      "group": "STRIKER",
+      "aliases": [
+        "Tomoe",
+        "토모에",
+        "智惠",
+        "巴",
+        "ともえ"
+      ]
+    },
+    {
+      "id": "sp/tomoe_cheepaw",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/tomoe_cheepaw.png",
+      "name": "トモエ（チーパオ）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Tomoe （Cheongsam）",
+        "토모에（치파오）",
+        "智惠（旗袍）",
+        "巴（旗袍）",
+        "ともえ（ちーぱお）"
+      ]
+    },
+    {
+      "id": "sp/nagisa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nagisa.png",
+      "name": "ナギサ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Nagisa",
+        "나기사",
+        "渚",
+        "渚",
+        "なぎさ"
+      ]
+    },
+    {
+      "id": "sp/nagisa_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nagisa_swimsuit.png",
+      "name": "ナギサ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Nagisa （Swimsuit）",
+        "나기사（수영복）",
+        "渚（泳裝）",
+        "渚（泳装）",
+        "なぎさ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/nagusa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nagusa.png",
+      "name": "ナグサ",
+      "group": "STRIKER",
+      "aliases": [
+        "Nagusa",
+        "나구사",
+        "名草",
+        "南草",
+        "なぐさ"
+      ]
+    },
+    {
+      "id": "st/nagusa_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nagusa_swimsuit.png",
+      "name": "ナグサ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Nagusa（Swimsuit）",
+        "나구사（수영복）",
+        "名草（泳裝）",
+        "南草（泳装）",
+        "なぐさ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/natsu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/natsu.png",
+      "name": "ナツ",
+      "group": "STRIKER",
+      "aliases": [
+        "Natsu",
+        "나츠",
+        "夏",
+        "夏",
+        "なつ"
+      ]
+    },
+    {
+      "id": "st/natsu_band",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/natsu_band.png",
+      "name": "ナツ（バンド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Natsu （Band）",
+        "나츠（밴드）",
+        "夏（樂隊）",
+        "夏（乐队）",
+        "なつ（ばんど）"
+      ]
+    },
+    {
+      "id": "st/niko",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/niko.png",
+      "name": "ニコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Nico",
+        "니코",
+        "尼科",
+        "尼可",
+        "にこ"
+      ]
+    },
+    {
+      "id": "sp/niya",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/niya.png",
+      "name": "ニヤ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Niya",
+        "니야",
+        "妮娅",
+        "妮亞",
+        "にや"
+      ]
+    },
+    {
+      "id": "st/neru",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru.png",
+      "name": "ネル",
+      "group": "STRIKER",
+      "aliases": [
+        "Neru",
+        "네루",
+        "寧瑠",
+        "妮露",
+        "ねる"
+      ]
+    },
+    {
+      "id": "st/neru_bunnie",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru_bunnie.png",
+      "name": "ネル（バニーガール）",
+      "group": "STRIKER",
+      "aliases": [
+        "Neru （Bunny）",
+        "네루（바니걸）",
+        "寧瑠（兔女郎）",
+        "妮露（邦妮）",
+        "ねる（ばにーがーる）,ばねる"
+      ]
+    },
+    {
+      "id": "st/neru_uniform",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/neru_uniform.png",
+      "name": "ネル（制服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Neru （School Uniform）",
+        "네루（교복）",
+        "寧瑠（制服）",
+        "妮露（制服）",
+        "ねる（せいふく）,せねる"
+      ]
+    },
+    {
+      "id": "st/noa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/noa.png",
+      "name": "ノア",
+      "group": "STRIKER",
+      "aliases": [
+        "Noa",
+        "노아",
+        "乃愛",
+        "诺亚",
+        "のあ"
+      ]
+    },
+    {
+      "id": "st/noa_pajama",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/noa_pajama.png",
+      "name": "ノア（パジャマ）",
+      "group": "STRIKER",
+      "aliases": [
+        "Noa （Pajama）",
+        "노아（파자마）",
+        "乃愛（睡衣）",
+        "诺亚（睡衣）",
+        "のあ（ぱじゃま）,ぱのあ"
+      ]
+    },
+    {
+      "id": "st/nozomi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nozomi.png",
+      "name": "ノゾミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Nozomi",
+        "노조미",
+        "希望",
+        "希",
+        "のぞみ"
+      ]
+    },
+    {
+      "id": "sp/nodoka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nodoka.png",
+      "name": "ノドカ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Nodoka",
+        "노도카",
+        "和香",
+        "和香",
+        "のどか"
+      ]
+    },
+    {
+      "id": "sp/nodoka_spa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/nodoka_spa.png",
+      "name": "ノドカ（温泉）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Nodoka （Hot Spring）",
+        "노도카（온천）",
+        "和香（溫泉）",
+        "和香（温泉）",
+        "のどか（おんせん）"
+      ]
+    },
+    {
+      "id": "st/nonomi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nonomi.png",
+      "name": "ノノミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Nonomi",
+        "노노미",
+        "野乃美",
+        "野宫",
+        "ののみ"
+      ]
+    },
+    {
+      "id": "st/nonomi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/nonomi_swimsuit.png",
+      "name": "ノノミ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Nonomi （Swimsuit）",
+        "노노미（수영복）",
+        "野乃美（泳裝）",
+        "野宫（泳装）",
+        "ののみ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/hasumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi.png",
+      "name": "ハスミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hasumi",
+        "하스미",
+        "蓮實",
+        "莲见",
+        "はすみ"
+      ]
+    },
+    {
+      "id": "st/hasumi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi_swimsuit.png",
+      "name": "ハスミ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hasumi （Swimsuit）",
+        "하스미（수영복）",
+        "蓮實（泳裝）",
+        "莲见（泳装）",
+        "はすみ（みずぎ）,みずはすみ"
+      ]
+    },
+    {
+      "id": "st/hasumi_gym",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hasumi_gym.png",
+      "name": "ハスミ（体操服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hasumi （Track）",
+        "하스미（체육복）",
+        "蓮實（體育服）",
+        "莲见（体操服）",
+        "はすみ（たいそうふく）"
+      ]
+    },
+    {
+      "id": "sp/hanae",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanae.png",
+      "name": "ハナエ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hanae",
+        "하나에",
+        "花繪",
+        "花江",
+        "はなえ"
+      ]
+    },
+    {
+      "id": "sp/hanae_christmas",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanae_christmas.png",
+      "name": "ハナエ（クリスマス）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hanae （Christmas）",
+        "하나에（크리스마스）",
+        "花繪（聖誕節）",
+        "花江（圣诞节）",
+        "はなえ（くりすます）"
+      ]
+    },
+    {
+      "id": "sp/hanako",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hanako.png",
+      "name": "ハナコ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hanako",
+        "하나코",
+        "花子",
+        "花子",
+        "はなこ"
+      ]
+    },
+    {
+      "id": "st/hanako_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hanako_swimsuit.png",
+      "name": "ハナコ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hanako （Swimsuit）",
+        "하나코（수영복）",
+        "花子（泳裝）",
+        "花子（泳装）",
+        "はなこ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/haruka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruka.png",
+      "name": "ハルカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Haruka",
+        "하루카",
+        "遙香",
+        "春香",
+        "はるか"
+      ]
+    },
+    {
+      "id": "st/haruka_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruka_dress.png",
+      "name": "ハルカ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Haruka （Dress）",
+        "하루카（드레스）",
+        "遙香（禮服）",
+        "春香（礼服）",
+        "はるか（どれす）"
+      ]
+    },
+    {
+      "id": "sp/haruka_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/haruka_newyear.png",
+      "name": "ハルカ（正月）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Haruka （New Year）",
+        "하루카（새해）",
+        "遙香（正月）",
+        "春香（正月）",
+        "はるか（しょうがつ）"
+      ]
+    },
+    {
+      "id": "st/haruna",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruna.png",
+      "name": "ハルナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Haruna",
+        "하루나",
+        "羽留奈",
+        "晴奈",
+        "はるな"
+      ]
+    },
+    {
+      "id": "st/haruna_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/haruna_newyear.png",
+      "name": "ハルナ（正月）",
+      "group": "STRIKER",
+      "aliases": [
+        "Haruna （New Year）",
+        "하루나（새해）",
+        "羽留奈（正月）",
+        "晴奈（正月）",
+        "はるな（しょうがつ）"
+      ]
+    },
+    {
+      "id": "sp/haruna_gym",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/haruna_gym.png",
+      "name": "ハルナ（体操服）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Haruna （Track）",
+        "하루나（체육복）",
+        "羽留奈（體育服）",
+        "晴奈（运动服）",
+        "はるな（たいそうふく）"
+      ]
+    },
+    {
+      "id": "sp/hare",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hare.png",
+      "name": "ハレ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hare",
+        "하레",
+        "晴",
+        "晴",
+        "はれ"
+      ]
+    },
+    {
+      "id": "st/hare_camp",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hare_camp.png",
+      "name": "ハレ（キャンプ）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hare （Camp）",
+        "하레（캠핑）",
+        "晴（露營）",
+        "晴（露营）",
+        "はれ（きゃんぷ）"
+      ]
+    },
+    {
+      "id": "st/hikari",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hikari.png",
+      "name": "ヒカリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hikari",
+        "히카리",
+        "光",
+        "光",
+        "ひかり"
+      ]
+    },
+    {
+      "id": "st/hina",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina.png",
+      "name": "ヒナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hina",
+        "히나",
+        "陽奈",
+        "日奈",
+        "ひな"
+      ]
+    },
+    {
+      "id": "st/hina_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina_dress.png",
+      "name": "ヒナ（ドレス）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hina （Dress）",
+        "히나（드레스）",
+        "陽奈（禮服）",
+        "日奈（礼服）",
+        "ひな（どれす）,どひな"
+      ]
+    },
+    {
+      "id": "st/hina_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hina_swimsuit.png",
+      "name": "ヒナ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hina （Swimsuit）",
+        "히나（수영복）",
+        "陽奈（泳裝）",
+        "日奈（泳装）",
+        "ひな（みずぎ）,みずひな"
+      ]
+    },
+    {
+      "id": "st/hinata",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hinata.png",
+      "name": "ヒナタ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hinata",
+        "히나타",
+        "日向",
+        "日向",
+        "ひなた"
+      ]
+    },
+    {
+      "id": "sp/hinata_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hinata_swimsuit.png",
+      "name": "ヒナタ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hinata （Swimsuit）",
+        "히나타（수영복）",
+        "日向（泳裝）",
+        "日向（泳装）",
+        "ひなた（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/hibiki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hibiki.png",
+      "name": "ヒビキ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hibiki",
+        "히비키",
+        "響",
+        "响",
+        "ひびき"
+      ]
+    },
+    {
+      "id": "st/hibiki_cheerleader",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hibiki_cheerleader.png",
+      "name": "ヒビキ（応援団）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hibiki （Cheer Squad）",
+        "히비키（응원단）",
+        "響（應援團）",
+        "响（应援团）",
+        "ひびき（おうえんだん）"
+      ]
+    },
+    {
+      "id": "st/hifumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hifumi.png",
+      "name": "ヒフミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hifumi",
+        "히후미",
+        "日步美",
+        "日富美",
+        "ひふみ"
+      ]
+    },
+    {
+      "id": "st/hifumi_racing",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hifumi_racing.png",
+      "name": "ヒフミ（レーシング）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hifumi（Racing）",
+        "히후미 (레이싱)",
+        "日步美（賽車）",
+        "日富美（赛车）",
+        "ひふみ（れーしんぐ）"
+      ]
+    },
+    {
+      "id": "sp/hifumi_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hifumi_swimsuit.png",
+      "name": "ヒフミ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hifumi （Swimsuit）",
+        "히후미（수영복）",
+        "日步美（泳裝）",
+        "日富美（泳装）",
+        "ひふみ（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/himari",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/himari.png",
+      "name": "ヒマリ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Himari",
+        "히마리",
+        "陽葵",
+        "日鞠",
+        "ひまり"
+      ]
+    },
+    {
+      "id": "sp/himari_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/himari_rinsen.png",
+      "name": "ヒマリ（臨戦）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Himari （Battle）",
+        "히마리（전투）",
+        "陽葵（臨戰）",
+        "日鞠（临战）",
+        "ひまり（りんせん）"
+      ]
+    },
+    {
+      "id": "sp/hiyori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/hiyori.png",
+      "name": "ヒヨリ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hiyori",
+        "히요리",
+        "日和",
+        "日和",
+        "ひより"
+      ]
+    },
+    {
+      "id": "st/hiyori_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hiyori_swimsuit.png",
+      "name": "ヒヨリ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hiyori （Swimsuit）",
+        "히요리（수영복）",
+        "日和（泳裝）",
+        "日和（泳装）",
+        "ひより（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/fi-na",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fi-na.png",
+      "name": "フィーナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Pina",
+        "피나",
+        "菲娜",
+        "菲娜",
+        "ふぃーな"
+      ]
+    },
+    {
+      "id": "sp/fi-na_guid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fi-na_guid.png",
+      "name": "フィーナ（ガイド）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Pina （Guide）",
+        "피나（가이드）",
+        "菲娜（嚮導）",
+        "菲娜（向导）",
+        "ふぃーな（がいど）"
+      ]
+    },
+    {
+      "id": "sp/fuuka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fuuka.png",
+      "name": "フウカ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Fuuka",
+        "후우카",
+        "風華",
+        "风香",
+        "ふうか"
+      ]
+    },
+    {
+      "id": "sp/fuuka_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fuuka_newyear.png",
+      "name": "フウカ（正月）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Fuuka （New Year）",
+        "후우카（새해）",
+        "風華（正月）",
+        "风香（正月）",
+        "ふうか（しょうがつ）"
+      ]
+    },
+    {
+      "id": "st/fubuki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fubuki.png",
+      "name": "フブキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Fubuki",
+        "후부키",
+        "吹雪",
+        "吹雪",
+        "ふぶき"
+      ]
+    },
+    {
+      "id": "sp/fubuki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/fubuki_swimsuit.png",
+      "name": "フブキ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Fubuki （Swimsuit）",
+        "후부키（수영복）",
+        "吹雪（泳裝）",
+        "吹雪（泳装）",
+        "ふぶき（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/fuyu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fuyu.png",
+      "name": "フユ",
+      "group": "STRIKER",
+      "aliases": [
+        "Winter",
+        "후유",
+        "冬天",
+        "冬天",
+        "ふゆ"
+      ]
+    },
+    {
+      "id": "st/hoshino",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino.png",
+      "name": "ホシノ",
+      "group": "STRIKER",
+      "aliases": [
+        "Hoshino",
+        "호시노",
+        "星野",
+        "星野",
+        "ほしの"
+      ]
+    },
+    {
+      "id": "st/hoshino_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_swimsuit.png",
+      "name": "ホシノ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hoshino （Swimsuit）",
+        "호시노（수영복）",
+        "星野（泳裝）",
+        "星野（泳装）",
+        "ほしの（みずぎ）,みずおじ"
+      ]
+    },
+    {
+      "id": "st/hoshino_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen.png",
+      "name": "ホシノ（臨戦）",
+      "group": "STRIKER",
+      "aliases": [
+        "Hoshino （attack）",
+        "호시노（공격）",
+        "星野（臨戰/攻）",
+        "星野（攻擊）",
+        "ほしの（こうげき）,りんおじ",
+        "ホシノ（攻撃）",
+        "ほしの（りんせん）",
+        "Hoshino （Defense）",
+        "호시노（방어）",
+        "星野（臨戰/盾）",
+        "星野（防守）",
+        "ほしの（ぼうぎょ）,りんおじ",
+        "ホシノ（防御）"
+      ]
+    },
+    {
+      "id": "st/maki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/maki.png",
+      "name": "マキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Maki",
+        "마키",
+        "真紀",
+        "真纪",
+        "まき"
+      ]
+    },
+    {
+      "id": "sp/maki_camp",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/maki_camp.png",
+      "name": "マキ（キャンプ）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Maki （Camp）",
+        "마키（캠핑）",
+        "真紀（露營）",
+        "真纪（露营）",
+        "まき（きゃんぷ）"
+      ]
+    },
+    {
+      "id": "sp/makoto",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/makoto.png",
+      "name": "マコト",
+      "group": "SPECIAL",
+      "aliases": [
+        "Makoto",
+        "마코토",
+        "真琴",
+        "真琴",
+        "まこと"
+      ]
+    },
+    {
+      "id": "st/makoto_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/makoto_swimsuit.png",
+      "name": "マコト（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Makoto（Swimsuit）",
+        "마코토（수영복）",
+        "真琴（泳裝）",
+        "真琴（泳装）",
+        "まこと（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/mashiro",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mashiro.png",
+      "name": "マシロ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Mashiro",
+        "마시로",
+        "麻白",
+        "真白",
+        "ましろ"
+      ]
+    },
+    {
+      "id": "sp/mashiro_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mashiro_swimsuit.png",
+      "name": "マシロ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Mashiro （Swimsuit）",
+        "마시로（수영복）",
+        "麻白（泳裝）",
+        "真白（泳装）",
+        "ましろ（みずぎ）"
+      ]
+    },
+    {
+      "id": "sp/mari-",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mari-.png",
+      "name": "マリー",
+      "group": "SPECIAL",
+      "aliases": [
+        "Mari",
+        "마리",
+        "瑪麗",
+        "玛丽",
+        "まりー"
+      ]
+    },
+    {
+      "id": "st/mari-_idol",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_idol.png",
+      "name": "マリー（アイドル）",
+      "group": "STRIKER",
+      "aliases": [
+        "Mari （Idol）",
+        "마리（아이돌）",
+        "瑪麗（偶像）",
+        "玛丽（偶像）",
+        "まりー（あいどる）"
+      ]
+    },
+    {
+      "id": "st/mari-_gym",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_gym.png",
+      "name": "マリー（体操服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Mari （Track）",
+        "마리（체육복）",
+        "瑪麗（體操）",
+        "玛丽（体操服）",
+        "まりー（たいそうふく）"
+      ]
+    },
+    {
+      "id": "st/marina",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/marina.png",
+      "name": "マリナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Marina",
+        "마리나",
+        "瑪麗娜",
+        "真里奈",
+        "まりな"
+      ]
+    },
+    {
+      "id": "st/marina_cheepaw",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/marina_cheepaw.png",
+      "name": "マリナ（チーパオ）",
+      "group": "STRIKER",
+      "aliases": [
+        "Marina （Cheongsam）",
+        "마리나（치파오）",
+        "瑪麗娜（旗袍）",
+        "真里奈（旗袍）",
+        "まりな（ちーぱお）"
+      ]
+    },
+    {
+      "id": "st/mika",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mika.png",
+      "name": "ミカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Mika",
+        "미카",
+        "彌香",
+        "未花",
+        "みか"
+      ]
+    },
+    {
+      "id": "st/mika_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mika_swimsuit.png",
+      "name": "ミカ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Mika （Swimsuit）",
+        "미카（수영복）",
+        "彌香（泳裝）",
+        "未花（泳装）",
+        "みか（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/misaki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/misaki.png",
+      "name": "ミサキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Misaki",
+        "미사키",
+        "美咲",
+        "美咲",
+        "みさき"
+      ]
+    },
+    {
+      "id": "sp/misaki_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/misaki_swimsuit.png",
+      "name": "ミサキ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Misaki （Swimsuit）",
+        "미사키（수영복）",
+        "美咲（泳裝）",
+        "美咲（泳装）",
+        "みさき（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/michiru",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/michiru.png",
+      "name": "ミチル",
+      "group": "STRIKER",
+      "aliases": [
+        "Michiru",
+        "미치루",
+        "三千留",
+        "满",
+        "みちる"
+      ]
+    },
+    {
+      "id": "sp/michiru_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/michiru_dress.png",
+      "name": "ミチル（ドレス）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Michiru （Dress）",
+        "미치루（드레스）",
+        "三千留（禮服）",
+        "满（礼服）",
+        "みちる（どれす）,どちる"
+      ]
+    },
+    {
+      "id": "st/midori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/midori.png",
+      "name": "ミドリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Midori",
+        "미도리",
+        "綠",
+        "绿",
+        "みどり"
+      ]
+    },
+    {
+      "id": "st/midori_maid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/midori_maid.png",
+      "name": "ミドリ（メイド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Midori （Maid）",
+        "미도리（메이드）",
+        "綠（女僕）",
+        "绿（女仆）",
+        "みどり（めいど）"
+      ]
+    },
+    {
+      "id": "st/mina",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mina.png",
+      "name": "ミナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Mina",
+        "미나",
+        "美奈",
+        "弥奈",
+        "みな"
+      ]
+    },
+    {
+      "id": "st/mine",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mine.png",
+      "name": "ミネ",
+      "group": "STRIKER",
+      "aliases": [
+        "Mine",
+        "미네",
+        "美禰",
+        "峰",
+        "みね"
+      ]
+    },
+    {
+      "id": "st/mine_idol",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mine_idol.png",
+      "name": "ミネ（アイドル）",
+      "group": "STRIKER",
+      "aliases": [
+        "Mine （Idol）",
+        "미네（아이돌）",
+        "美禰（偶像）",
+        "峰（偶像）",
+        "みね（あいどる）"
+      ]
+    },
+    {
+      "id": "sp/minori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/minori.png",
+      "name": "ミノリ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Minori",
+        "미노리",
+        "實里",
+        "实里",
+        "みのり"
+      ]
+    },
+    {
+      "id": "st/mimori",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mimori.png",
+      "name": "ミモリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Mimori",
+        "미모리",
+        "三森",
+        "三森",
+        "みもり"
+      ]
+    },
+    {
+      "id": "sp/mimori_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mimori_swimsuit.png",
+      "name": "ミモリ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Mimori （Swimsuit）",
+        "미모리（수영복）",
+        "三森（泳裝）",
+        "三森（泳装）",
+        "みもり（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/miyako",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyako.png",
+      "name": "ミヤコ",
+      "group": "STRIKER",
+      "aliases": [
+        "Miyako",
+        "미야코",
+        "都子",
+        "宫子",
+        "みやこ"
+      ]
+    },
+    {
+      "id": "st/miyako_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyako_swimsuit.png",
+      "name": "ミヤコ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Miyako （Swimsuit）",
+        "미야코（수영복）",
+        "都子（泳裝）",
+        "宫子（泳装）",
+        "みやこ（みずぎ）,みずみやこ"
+      ]
+    },
+    {
+      "id": "st/miyu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyu.png",
+      "name": "ミユ",
+      "group": "STRIKER",
+      "aliases": [
+        "Miyu",
+        "미유",
+        "美優",
+        "美游",
+        "みゆ"
+      ]
+    },
+    {
+      "id": "sp/miyu_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/miyu_swimsuit.png",
+      "name": "ミユ（水着）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Miyu （Swimsuit）",
+        "미유（수영복）",
+        "美優（泳裝）",
+        "美游（泳装）",
+        "みゆ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/miyo",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/miyo.png",
+      "name": "ミヨ",
+      "group": "STRIKER",
+      "aliases": [
+        "Miyo",
+        "미요",
+        "美代",
+        "美代",
+        "みよ"
+      ]
+    },
+    {
+      "id": "st/mutsuki",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mutsuki.png",
+      "name": "ムツキ",
+      "group": "STRIKER",
+      "aliases": [
+        "Mutsuki",
+        "무츠키",
+        "無月",
+        "睦月",
+        "むつき"
+      ]
+    },
+    {
+      "id": "sp/mutsuki_dress",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/mutsuki_dress.png",
+      "name": "ムツキ（ドレス）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Mutsuki （Dress）",
+        "무츠키（드레스）",
+        "無月（禮服）",
+        "睦月（礼服）",
+        "むつき（どれす）"
+      ]
+    },
+    {
+      "id": "st/mutsuki_newyear",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mutsuki_newyear.png",
+      "name": "ムツキ（正月）",
+      "group": "STRIKER",
+      "aliases": [
+        "Mutsuki （New Year）",
+        "무츠키（새해）",
+        "無月（正月）",
+        "睦月（新年）",
+        "むつき（しょうがつ）"
+      ]
+    },
+    {
+      "id": "st/megu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/megu.png",
+      "name": "メグ",
+      "group": "STRIKER",
+      "aliases": [
+        "Megu",
+        "메구",
+        "惠",
+        "惠久",
+        "めぐ"
+      ]
+    },
+    {
+      "id": "st/meru",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/meru.png",
+      "name": "メル",
+      "group": "STRIKER",
+      "aliases": [
+        "Meru",
+        "메루",
+        "愛瑠",
+        "芽留",
+        "める"
+      ]
+    },
+    {
+      "id": "sp/moe",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/moe.png",
+      "name": "モエ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Moe",
+        "모에",
+        "萌",
+        "萌绘",
+        "もえ"
+      ]
+    },
+    {
+      "id": "st/moe_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/moe_swimsuit.png",
+      "name": "モエ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Moe （Swimsuit）",
+        "모에（수영복）",
+        "萌（泳裝）",
+        "萌绘（泳装）",
+        "もえ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/momiji",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momiji.png",
+      "name": "モミジ",
+      "group": "STRIKER",
+      "aliases": [
+        "Momiji",
+        "모미지",
+        "紅葉",
+        "红叶",
+        "もみじ"
+      ]
+    },
+    {
+      "id": "st/momoi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momoi.png",
+      "name": "モモイ",
+      "group": "STRIKER",
+      "aliases": [
+        "Momoi",
+        "모모이",
+        "桃",
+        "桃",
+        "ももい"
+      ]
+    },
+    {
+      "id": "st/momoi_maid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/momoi_maid.png",
+      "name": "モモイ（メイド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Momoi （Maid）",
+        "모모이（메이드）",
+        "桃井（女僕）",
+        "桃井（女仆）",
+        "ももい（めいど）"
+      ]
+    },
+    {
+      "id": "sp/yakumo",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yakumo.png",
+      "name": "ヤクモ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Yakumo",
+        "야쿠모",
+        "八雲",
+        "八云",
+        "やくも"
+      ]
+    },
+    {
+      "id": "st/yuuka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka.png",
+      "name": "ユウカ",
+      "group": "STRIKER",
+      "aliases": [
+        "Yuuka",
+        "유우카",
+        "優香",
+        "优香",
+        "ゆうか"
+      ]
+    },
+    {
+      "id": "st/yuuka_pajama",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka_pajama.png",
+      "name": "ユウカ（パジャマ）",
+      "group": "STRIKER",
+      "aliases": [
+        "Yuuka （Pajama）",
+        "유우카（파자마）",
+        "優香（睡衣）",
+        "优香（睡衣）",
+        "ゆうか（ぱじゃま）"
+      ]
+    },
+    {
+      "id": "st/yuuka_gym",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuuka_gym.png",
+      "name": "ユウカ（体操服）",
+      "group": "STRIKER",
+      "aliases": [
+        "Yuuka （Track）",
+        "유우카（체육복）",
+        "優香（體育服）",
+        "优香（体操服）",
+        "ゆうか（たいそうふく）"
+      ]
+    },
+    {
+      "id": "st/yukari",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yukari.png",
+      "name": "ユカリ",
+      "group": "STRIKER",
+      "aliases": [
+        "Yukari",
+        "유카리",
+        "紫",
+        "紫草",
+        "ゆかり"
+      ]
+    },
+    {
+      "id": "st/yukari_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yukari_swimsuit.png",
+      "name": "ユカリ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Yukari （Swimsuit）",
+        "유카리（수영복）",
+        "紫（泳裝）",
+        "紫草（泳装）",
+        "ゆかり（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/yuzu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yuzu.png",
+      "name": "ユズ",
+      "group": "STRIKER",
+      "aliases": [
+        "Yuzu",
+        "유즈",
+        "柚子",
+        "柚子",
+        "ゆず"
+      ]
+    },
+    {
+      "id": "sp/yuzu_maid",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_maid.png",
+      "name": "ユズ（メイド）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Yuzu （Maid）",
+        "유즈（메이드）",
+        "柚子（女僕）",
+        "柚子（女仆）",
+        "ゆず（めいど）"
+      ]
+    },
+    {
+      "id": "sp/yuzu_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_rinsen.png",
+      "name": "ユズ（臨戦）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Yuzu （Battle）",
+        "유즈（전투）",
+        "柚子（臨戰）",
+        "柚子（临战）",
+        "ゆず（りんせん）"
+      ]
+    },
+    {
+      "id": "sp/yoshimi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yoshimi.png",
+      "name": "ヨシミ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Yoshimi",
+        "요시미",
+        "喜美",
+        "好美",
+        "よしみ"
+      ]
+    },
+    {
+      "id": "st/yoshimi_band",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/yoshimi_band.png",
+      "name": "ヨシミ（バンド）",
+      "group": "STRIKER",
+      "aliases": [
+        "Yoshimi （Band）",
+        "요시미（밴드）",
+        "喜美（樂隊）",
+        "好美（乐队）",
+        "よしみ（ばんど）"
+      ]
+    },
+    {
+      "id": "sp/rana",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/rana.png",
+      "name": "ラナ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Rana",
+        "라나",
+        "拉娜",
+        "拉娜",
+        "らな"
+      ]
+    },
+    {
+      "id": "st/rabu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rabu.png",
+      "name": "ラブ",
+      "group": "STRIKER",
+      "aliases": [
+        "Love",
+        "사랑",
+        "爱",
+        "愛",
+        "らぶ"
+      ]
+    },
+    {
+      "id": "sp/rio",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/rio.png",
+      "name": "リオ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Rio",
+        "리오",
+        "莉央",
+        "莉央",
+        "りお"
+      ]
+    },
+    {
+      "id": "st/rio_rinsen",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rio_rinsen.png",
+      "name": "リオ（臨戦）",
+      "group": "STRIKER",
+      "aliases": [
+        "Rio （ready for battle）",
+        "리오（임전）",
+        "莉央（臨戰）",
+        "裡約（準備戰鬥）",
+        "りお（りんせん）"
+      ]
+    },
+    {
+      "id": "sp/ritsu",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ritsu.png",
+      "name": "リツ",
+      "group": "SPECIAL",
+      "aliases": [
+        "Ritsu",
+        "리츠",
+        "律",
+        "律",
+        "りつ"
+      ]
+    },
+    {
+      "id": "st/rumi",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rumi.png",
+      "name": "ルミ",
+      "group": "STRIKER",
+      "aliases": [
+        "Rumi",
+        "루미",
+        "瑠美",
+        "流美",
+        "るみ"
+      ]
+    },
+    {
+      "id": "st/rei",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rei.png",
+      "name": "レイ",
+      "group": "STRIKER",
+      "aliases": [
+        "Ray",
+        "레이",
+        "射线",
+        "射線",
+        "れい"
+      ]
+    },
+    {
+      "id": "st/reisa",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/reisa.png",
+      "name": "レイサ",
+      "group": "STRIKER",
+      "aliases": [
+        "Reisa",
+        "레이사",
+        "澪紗",
+        "玲纱",
+        "れいさ"
+      ]
+    },
+    {
+      "id": "sp/reisa_magic",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/reisa_magic.png",
+      "name": "レイサ（マジカル）",
+      "group": "SPECIAL",
+      "aliases": [
+        "Reisa （Magical）",
+        "레이사（매지컬）",
+        "澪紗（魔法）",
+        "玲纱（魔法）",
+        "れいさ（まじかる）,てるぴ,まじれいさ"
+      ]
+    },
+    {
+      "id": "st/reijyo",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/reijyo.png",
+      "name": "レイジョ",
+      "group": "STRIKER",
+      "aliases": [
+        "Reijo",
+        "레이조",
+        "礼城",
+        "禮城",
+        "れいじょ"
+      ]
+    },
+    {
+      "id": "st/rena",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/rena.png",
+      "name": "レナ",
+      "group": "STRIKER",
+      "aliases": [
+        "Lena",
+        "레나",
+        "莉娜",
+        "莉娜",
+        "れな"
+      ]
+    },
+    {
+      "id": "st/renge",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/renge.png",
+      "name": "レンゲ",
+      "group": "STRIKER",
+      "aliases": [
+        "Renge",
+        "렌게",
+        "蓮華",
+        "莲华",
+        "れんげ"
+      ]
+    },
+    {
+      "id": "st/renge_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/renge_swimsuit.png",
+      "name": "レンゲ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Renge （Swimsuit）",
+        "렌게（수영복）",
+        "蓮華（泳裝）",
+        "莲华（泳装）",
+        "れんげ（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/wakamo",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/wakamo.png",
+      "name": "ワカモ",
+      "group": "STRIKER",
+      "aliases": [
+        "Wakamo",
+        "와카모",
+        "若藻",
+        "若藻",
+        "わかも"
+      ]
+    },
+    {
+      "id": "st/wakamo_swimsuit",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/wakamo_swimsuit.png",
+      "name": "ワカモ（水着）",
+      "group": "STRIKER",
+      "aliases": [
+        "Wakamo （Swimsuit）",
+        "와카모（수영복）",
+        "若藻（泳裝）",
+        "若藻（泳装）",
+        "わかも（みずぎ）"
+      ]
+    },
+    {
+      "id": "st/misaka",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/misaka.png",
+      "name": "御坂美琴",
+      "group": "STRIKER",
+      "aliases": [
+        "Misaka Mikoto",
+        "미사카 미코토",
+        "御坂美琴",
+        "御坂美琴",
+        "みさかみこと"
+      ]
+    },
+    {
+      "id": "sp/shaten",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/shaten.png",
+      "name": "佐天涙子",
+      "group": "SPECIAL",
+      "aliases": [
+        "Saten Ruiko",
+        "사텐 루이코",
+        "佐天涙子",
+        "佐天泪子",
+        "さてんるいこ"
+      ]
+    },
+    {
+      "id": "sp/miku",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/miku.png",
+      "name": "初音ミク",
+      "group": "SPECIAL",
+      "aliases": [
+        "Hatsune Miku",
+        "하츠네 미쿠",
+        "初音未來",
+        "初音未来",
+        "はつねみく"
+      ]
+    },
+    {
+      "id": "st/syokuhou",
+      "image": "https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/syokuhou.png",
+      "name": "食蜂操祈",
+      "group": "STRIKER",
+      "aliases": [
+        "Shokuhou Misaki",
+        "쇼쿠호 미사키",
+        "食蜂操祈",
+        "食蜂操祈",
+        "しょくほうみさき"
+      ]
     }
-  ]
+  ],
+  "updatedAt": "2026-10-29T06:47:38.451Z"
 }

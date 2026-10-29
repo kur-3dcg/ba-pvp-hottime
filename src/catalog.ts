@@ -42,6 +42,7 @@ export function initialCatalog(): { items: Student[]; updatedAt: string } {
     const raw = JSON.parse(localStorage.getItem(KEY) || "null");
     if (
       raw &&
+      Date.parse(raw.updatedAt) >= Date.parse(bundled.updatedAt) &&
       Array.isArray(raw.items) &&
       raw.items.length &&
       raw.items.every(
